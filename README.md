@@ -9,6 +9,21 @@ Developed as a final undergraduate thesis (TCC) at UNISINOS, 2026.
 
 ---
 
+## Architecture
+
+GAIA is built as a sequential multi-agent pipeline coordinated by a rule-based orchestrator.
+Each agent is a self-contained module with a single responsibility; the orchestrator passes a
+shared context object through the chain and halts execution if any agent fails.
+
+The design combines three paradigms: **machine learning** (LightGBM) for culturally-grounded food
+preference scoring, **linear programming** (scipy.optimize.linprog) for optimal quantity
+allocation under hard nutritional constraints, and **deterministic rule-based validation** to
+guarantee that every generated plan meets WHO/DRI adequacy thresholds before delivery.
+An optional LLM step (Gemini) translates the structured output into a caregiver-facing narrative
+without affecting the nutritional guarantees.
+
+---
+
 ## Pipeline Overview
 
 The system runs five sequential agents:
