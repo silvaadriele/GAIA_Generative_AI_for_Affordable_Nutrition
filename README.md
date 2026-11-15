@@ -1,8 +1,9 @@
 # GAIA — Pediatric Meal Planning System
 
-**GAIA** (Gerador Automático de Intervenção Alimentar) is a multi-agent system that generates
-nutritionally adequate, affordable, and age-appropriate meal plans for children aged 0–59 months
-in food-insecure environments.
+**GAIA**, an acronym for Generative AI for Affordable Nutrition inspired by Gaia from Greek
+mythology who represents Earth as the source of life, nourishment, and sustenance for all living
+beings, is a multi-agent system that generates nutritionally adequate, affordable, and
+age-appropriate meal plans for children aged 0–59 months in food-insecure environments.
 
 Developed as a final undergraduate thesis (TCC) at UNISINOS, 2026.
 
@@ -33,10 +34,6 @@ The system runs five sequential agents:
 > **Note:** The ENANI datasets (`enani_profiles.csv`, `enani_recall_24h_clean.csv`) are not included
 > in this repository due to data governance restrictions. Contact UFRJ/ENANI for access:
 > https://enani.nutrition.ufrj.br
-
-> **Note:** The trained preference model (`models/preference_model.pkl`) is not included in this
-> repository because training requires the restricted ENANI data. See
-> [Training the Preference Model](#training-the-preference-model) below.
 
 ---
 
@@ -131,8 +128,9 @@ When using Option 2 (CLI flags), Gemini is **enabled by default**. Pass `--no-ge
 
 ## Training the Preference Model
 
-The trained model (`models/preference_model.pkl`) is not distributed with this repository.
-To train it from scratch, you will need the ENANI-2019 datasets (see [Data Sources](#data-sources)).
+The trained model (`models/preference_model.pkl`) is included in this repository and ready to use.
+To retrain it from scratch (e.g., with updated data), you will need the ENANI-2019 datasets
+(see [Data Sources](#data-sources)).
 
 Once you have the data:
 
@@ -167,7 +165,7 @@ GAIA/
 │   ├── reference/       # DRI tables, WHO LMS tables, TACO mapping
 │   └── raw/             # ENANI datasets (not included — see Data Sources)
 ├── models/
-│   ├── preference_model.pkl   # Trained LightGBM model (not included — see above)
+│   ├── preference_model.pkl   # Trained LightGBM model (included)
 │   └── feature_importance.csv
 ├── evaluation/
 │   ├── system_eval/     # 50-profile system evaluation reports
