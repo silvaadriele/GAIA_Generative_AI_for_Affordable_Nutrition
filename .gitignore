@@ -4,8 +4,7 @@ __pycache__/
 *.pyo
 .env
 data/raw/
-models/*.pkl
-models/*.json
+
 evaluation/results/
 tmp_who/
 tmp/
