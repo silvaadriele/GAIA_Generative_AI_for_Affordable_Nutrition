@@ -1,0 +1,94 @@
+====================================================================
+  Perfil 34  |  24.2 meses  |  Sexo: M  |  Região: Centro-Oeste
+  Peso: 11.7 kg  |  Altura: 84.1 cm  |  Faixa: 24-35m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 24.2 months  |  Sex: Male
+  Weight: 11.7 kg  |  Height: 84.1 cm
+  Region: Centro-Oeste
+  Age band: 24-35 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):       -0.36  → adequate
+  HAZ (height-for-age):       -1.06  → adequate_height
+  WHZ (weight-for-height):     0.26  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1342 kcal
+  Protein:     19.0 g
+  Iron:         7.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1740 g/day
+
+  [Breakfast]  target=336 kcal | achieved=161 kcal
+    • Iogurte, sabor morango                     145 g  (101 kcal)
+    • Açaí, polpa, congelada                      55 g  (32 kcal)
+    • Laranja, pêra, suco                         85 g  (28 kcal)
+
+  [Morning Snack]  target=134 kcal | achieved=90 kcal
+    • Iogurte, sabor morango                      55 g  (38 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis    70 g  (26 kcal)
+    • Açaí, polpa, congelada                      25 g  (14 kcal)
+    • Laranja, pêra, suco                         35 g  (11 kcal)
+
+  [Lunch]  target=470 kcal | achieved=560 kcal
+    • Arroz. polido. cozido. c/ Ã³leo. cebola    195 g  (269 kcal)
+    • Carne, bovina, costela, assada              40 g  (149 kcal)
+    • Banana. nanica.in natura. Musa spp..       105 g  (96 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    35 g  (6 kcal)
+
+  [Afternoon Snack]  target=134 kcal | achieved=421 kcal
+    • Leite, de vaca, achocolatado               170 g  (141 kcal)
+    • Leite, de vaca, desnatado, pó               30 g  (108 kcal)
+    • Cereais, mistura para vitamina, trigo, c    25 g  (95 kcal)
+    • AbÃ³bora. moranga. s/ casca. s/ semente.   200 g  (76 kcal)
+
+  [Dinner]  target=268 kcal | achieved=244 kcal
+    • Banana. nanica.in natura. Musa spp..        95 g  (86 kcal)
+    • Mexerica.'Rio'. in natura. Citrus reticu   200 g  (72 kcal)
+    • Arroz, tipo 1, cozido                       30 g  (38 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    35 g  (6 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1475.4 kcal  (109.9%)
+  Protein:      46.3 g     (243.8%)
+  Iron:         6.93 mg    (99.0%)
+  Zinc:         7.01 mg    (140.2%)
+  Calcium:    1007.1 mg    (100.7%)
+  Vitamin A:   594.1 µg    (148.5%)
+  Vitamin C:   332.1 mg    (1328.5%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 22.10
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 24-35 months: Arroz. polido. cozid (195g em Lunch); AbÃ³bora. moranga. s (200g em Afternoon Snack); Mexerica.'Rio'. in n (200g em Dinner)
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

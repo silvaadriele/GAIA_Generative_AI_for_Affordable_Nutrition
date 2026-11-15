@@ -1,0 +1,94 @@
+====================================================================
+  Perfil 47  |  36.9 meses  |  Sexo: F  |  Região: Sul
+  Peso: 14.5 kg  |  Altura: 94.1 cm  |  Faixa: 36-59m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 36.9 months  |  Sex: Female
+  Weight: 14.5 kg  |  Height: 94.1 cm
+  Region: Sul
+  Age band: 36-59 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):        0.26  → adequate
+  HAZ (height-for-age):       -0.41  → adequate_height
+  WHZ (weight-for-height):     0.65  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1274 kcal
+  Protein:     19.0 g
+  Iron:        10.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1800 g/day
+
+  [Breakfast]  target=318 kcal | achieved=288 kcal
+    • Cereais, mistura para vitamina, trigo, c    45 g  (172 kcal)
+    • Iogurte, sabor morango                     100 g  (70 kcal)
+    • Laranja, pêra, suco                        145 g  (47 kcal)
+
+  [Morning Snack]  target=127 kcal | achieved=217 kcal
+    • Manteiga, sem sal                           15 g  (114 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis   155 g  (57 kcal)
+    • Iogurte, sabor morango                      40 g  (28 kcal)
+    • Laranja, pêra, suco                         55 g  (18 kcal)
+
+  [Lunch]  target=446 kcal | achieved=589 kcal
+    • Arroz. polido. cozido. c/ Ã³leo. cebola    200 g  (276 kcal)
+    • Carne, bovina, costela, assada              40 g  (149 kcal)
+    • Banana. nanica.in natura. Musa spp..       110 g  (100 kcal)
+    • Cará, cozido                                45 g  (35 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    90 g  (15 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+
+  [Afternoon Snack]  target=127 kcal | achieved=123 kcal
+    • Melancia. polpa.in natura. Citrullus spp   200 g  (58 kcal)
+    • Cereais, mistura para vitamina, trigo, c    15 g  (57 kcal)
+    • AbÃ³bora. moranga. s/ casca. s/ semente.    20 g  (8 kcal)
+    • Leite, de vaca, desnatado, UHT             250 g  (0 kcal)
+
+  [Dinner]  target=255 kcal | achieved=211 kcal
+    • Banana. nanica.in natura. Musa spp..        90 g  (82 kcal)
+    • Arroz, tipo 1, cozido                       30 g  (38 kcal)
+    • Leite, de vaca, desnatado, pó               10 g  (36 kcal)
+    • Cará, cozido                                35 g  (27 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    80 g  (14 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1427.3 kcal  (112.0%)
+  Protein:      35.1 g     (184.5%)
+  Iron:        10.07 mg    (100.7%)
+  Zinc:         7.09 mg    (141.8%)
+  Calcium:    1032.5 mg    (103.2%)
+  Vitamin A:   594.9 µg    (148.7%)
+  Vitamin C:   159.6 mg    (638.4%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 19.71
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 8
+  Warnings:
+    ! Large portions for 36-59 months: Leite, de vaca, desn (250g em Afternoon Snack)
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

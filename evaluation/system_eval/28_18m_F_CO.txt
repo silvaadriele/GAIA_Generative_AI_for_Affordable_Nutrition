@@ -1,0 +1,102 @@
+====================================================================
+  Perfil 28  |  18.2 meses  |  Sexo: F  |  Região: Centro-Oeste
+  Peso: 10.19 kg  |  Altura: 87.1 cm  |  Faixa: 12-23m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 18.2 months  |  Sex: Female
+  Weight: 10.19 kg  |  Height: 87.1 cm
+  Region: Centro-Oeste
+  Age band: 12-23 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):       -0.07  → adequate
+  HAZ (height-for-age):        2.19  → adequate_height
+  WHZ (weight-for-height):    -1.64  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:       992 kcal
+  Protein:     13.0 g
+  Iron:         7.0 mg
+  Zinc:         3.0 mg
+  Calcium:      700 mg
+  Vitamin A:    300 µg
+  Vitamin C:     15 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1665 g/day
+
+  [Breakfast]  target=248 kcal | achieved=161 kcal
+    • Iogurte, sabor morango                     145 g  (101 kcal)
+    • Açaí, polpa, congelada                      55 g  (32 kcal)
+    • Laranja, pêra, suco                         85 g  (28 kcal)
+
+  [Morning Snack]  target=99 kcal | achieved=222 kcal
+    • Leite, de vaca, achocolatado               190 g  (157 kcal)
+    • Iogurte, sabor morango                      55 g  (38 kcal)
+    • Açaí, polpa, congelada                      25 g  (14 kcal)
+    • Laranja, pêra, suco                         35 g  (11 kcal)
+
+  [Lunch]  target=347 kcal | achieved=229 kcal
+    • Carne, bovina, fraldinha, com gordura, c    40 g  (135 kcal)
+    • Arroz. polido. cozido. c/ Ã³leo. cebola     30 g  (41 kcal)
+    • Banana. nanica.in natura. Musa spp..        20 g  (18 kcal)
+    • Batata, inglesa, cozida                     35 g  (18 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    70 g  (12 kcal)
+    • Soja, extrato solúvel, natural, fluido      10 g  (4 kcal)
+
+  [Afternoon Snack]  target=99 kcal | achieved=296 kcal
+    • Cereais, mistura para vitamina, trigo, c    30 g  (114 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis   200 g  (74 kcal)
+    • Melancia. polpa.in natura. Citrullus spp   200 g  (58 kcal)
+    • Leite, de vaca, integral, pó                10 g  (50 kcal)
+
+  [Dinner]  target=198 kcal | achieved=187 kcal
+    • Mexerica.'Rio'. in natura. Citrus reticu   200 g  (72 kcal)
+    • Arroz, tipo 1, cozido                       30 g  (38 kcal)
+    • Banana. nanica.in natura. Musa spp..        30 g  (27 kcal)
+    • Batata, inglesa, cozida                     45 g  (23 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã   105 g  (18 kcal)
+    • Soja, extrato solúvel, natural, fluido      20 g  (8 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1093.7 kcal  (110.3%)
+  Protein:      31.6 g     (243.0%)
+  Iron:         6.81 mg    (97.3%)
+  Zinc:         6.54 mg    (218.0%)
+  Calcium:     710.2 mg    (101.5%)
+  Vitamin A:   604.8 µg    (201.6%)
+  Vitamin C:   323.1 mg    (2154.3%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 20.77
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 12-23 months: Leite, de vaca, acho (190g em Morning Snack); Laranja. Pera.in nat (200g em Afternoon Snack); Melancia. polpa.in n (200g em Afternoon Snack)
+
+── BREASTFEEDING ─────────────────────────────────────────────────
+  This child is under 2 years old. According to WHO guidelines,
+  breastfeeding should be maintained as a COMPLEMENT to solid
+  foods up to 2 years of age or beyond. The plan above covers
+  complementary foods only, however, breast milk remains an essential
+  part of the diet at this age.
+  Ref: WHO (2023). https://www.who.int/publications/i/item/9789240082830
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

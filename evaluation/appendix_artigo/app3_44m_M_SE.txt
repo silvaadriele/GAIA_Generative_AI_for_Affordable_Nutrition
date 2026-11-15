@@ -1,0 +1,87 @@
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 43.6 months  |  Sex: Male
+  Weight: 14.6 kg  |  Height: 99.8 cm
+  Region: Sudeste
+  Age band: 36-59 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):       -0.54  → adequate
+  HAZ (height-for-age):       -0.25  → adequate_height
+  WHZ (weight-for-height):    -0.58  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1342 kcal
+  Protein:     19.0 g
+  Iron:        10.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1215.0 g/day
+
+  [Breakfast]  target=336 kcal | achieved=221 kcal
+    • Pão, trigo, francês                         45 g  (135 kcal)
+    • Laranja, pêra, suco                        145 g  (47 kcal)
+    • Creme de arroz, mingau                      10 g  (39 kcal)
+
+  [Morning Snack]  target=134 kcal | achieved=278 kcal
+    • Leite, de vaca, integral, pó                25 g  (124 kcal)
+    • Cereais, mistura para vitamina, trigo, c    30 g  (114 kcal)
+    • Biscoito, polvilho doce                      5 g  (22 kcal)
+    • Laranja, pêra, suco                         55 g  (18 kcal)
+
+  [Lunch]  target=470 kcal | achieved=372 kcal
+    • Polenta, pré-cozida                        200 g  (206 kcal)
+    • Frango, caipira, inteiro, com pele, cozi    30 g  (73 kcal)
+    • FeijÃ£o, carioca, cozido (50% grÃ£o e 50    75 g  (59 kcal)
+    • Batata, inglesa, s/ casca, cozida, drena    45 g  (23 kcal)
+    • Abobrinha, italiana, c/ casca, cozida, d    30 g  (10 kcal)
+
+  [Afternoon Snack]  target=134 kcal | achieved=283 kcal
+    • Leite, de vaca, integral, pó                25 g  (124 kcal)
+    • Iogurte, natural (mÃ©dia de diferentes a   200 g  (114 kcal)
+    • Pão, trigo, francês                         15 g  (45 kcal)
+
+  [Dinner]  target=268 kcal | achieved=277 kcal
+    • MacarrÃ£o, trigo, c/ ovos, c/ molho bran   120 g  (167 kcal)
+    • FeijÃ£o, carioca, cozido (50% grÃ£o e 50    75 g  (59 kcal)
+    • Batata, inglesa, s/ casca, cozida, drena    45 g  (23 kcal)
+    • Frango, fígado, cozido                      10 g  (17 kcal)
+    • Abobrinha, italiana, c/ casca, cozida, d    30 g  (10 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1430.6 kcal  (106.6%)
+  Protein:      65.6 g     (345.3%)
+  Iron:         9.72 mg    (97.2%)
+  Zinc:         6.82 mg    (136.4%)
+  Calcium:    1015.2 mg    (101.5%)
+  Vitamin A:   335.7 µg    (83.9%)
+  Vitamin C:   158.6 mg    (634.5%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 20.51
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================
+
+── CAREGIVER GUIDANCE (AI) ──────────────────────────────────────
+Great news! Your 3.5-year-old is growing wonderfully and currently maintains a healthy, adequate nutritional status. To support this healthy development and active energy levels, our proposed meal plan spreads approximately 1,430 calories across 5 balanced meals and snacks a day, perfectly aligning with their target requirement of around 1,342 calories. To help make mealtimes a positive experience, here are two practical tips: First, keep a consistent routine by offering meals and snacks at regular times each day so your child knows what to expect. Second, focus on serving a colorful variety of whole foods—such as fresh fruits, vegetables, whole grains, and lean proteins—and allow your child to tune into their natural hunger cues without pressure to clean the plate. You are doing a fantastic job supporting your child's health!

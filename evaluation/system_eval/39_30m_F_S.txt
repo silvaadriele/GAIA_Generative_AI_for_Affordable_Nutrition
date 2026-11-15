@@ -1,0 +1,92 @@
+====================================================================
+  Perfil 39  |  30.4 meses  |  Sexo: F  |  Região: Sul
+  Peso: 11.7 kg  |  Altura: 86.2 cm  |  Faixa: 24-35m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 30.4 months  |  Sex: Female
+  Weight: 11.7 kg  |  Height: 86.2 cm
+  Region: Sul
+  Age band: 24-35 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):       -0.71  → adequate
+  HAZ (height-for-age):       -1.35  → adequate_height
+  WHZ (weight-for-height):      0.0  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1274 kcal
+  Protein:     19.0 g
+  Iron:         7.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1530 g/day
+
+  [Breakfast]  target=318 kcal | achieved=205 kcal
+    • Iogurte, sabor morango                     145 g  (101 kcal)
+    • Cereais, mistura para vitamina, trigo, c    20 g  (76 kcal)
+    • Laranja, pêra, suco                         85 g  (28 kcal)
+
+  [Morning Snack]  target=127 kcal | achieved=176 kcal
+    • AbÃ³bora. moranga. s/ casca. s/ semente.   200 g  (76 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis   135 g  (50 kcal)
+    • Iogurte, sabor morango                      55 g  (38 kcal)
+    • Laranja, pêra, suco                         35 g  (11 kcal)
+
+  [Lunch]  target=446 kcal | achieved=551 kcal
+    • Arroz. polido. cozido. c/ Ã³leo. cebola    185 g  (255 kcal)
+    • Carne, bovina, costela, assada              40 g  (149 kcal)
+    • Banana. nanica.in natura. Musa spp..       105 g  (96 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    40 g  (7 kcal)
+
+  [Afternoon Snack]  target=127 kcal | achieved=301 kcal
+    • Leite, de vaca, achocolatado               165 g  (137 kcal)
+    • Leite, de vaca, desnatado, pó               35 g  (127 kcal)
+    • Cereais, mistura para vitamina, trigo, c    10 g  (38 kcal)
+
+  [Dinner]  target=255 kcal | achieved=176 kcal
+    • Banana. nanica.in natura. Musa spp..        95 g  (86 kcal)
+    • Arroz, tipo 1, cozido                       30 g  (38 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    40 g  (7 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1409.0 kcal  (110.6%)
+  Protein:      46.8 g     (246.1%)
+  Iron:         7.08 mg    (101.1%)
+  Zinc:         7.07 mg    (141.4%)
+  Calcium:    1023.2 mg    (102.3%)
+  Vitamin A:   598.8 µg    (149.7%)
+  Vitamin C:   114.3 mg    (457.4%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 17.53
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 24-35 months: AbÃ³bora. moranga. s (200g em Morning Snack); Arroz. polido. cozid (185g em Lunch)
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

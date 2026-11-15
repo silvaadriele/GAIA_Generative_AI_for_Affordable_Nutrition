@@ -1,0 +1,95 @@
+====================================================================
+  Perfil 23  |  11.4 meses  |  Sexo: M  |  Região: Norte
+  Peso: 10.0 kg  |  Altura: 72.9 cm  |  Faixa: 9-11m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 11.4 months  |  Sex: Male
+  Weight: 10.0 kg  |  Height: 72.9 cm
+  Region: Norte
+  Age band: 9-11 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):        0.46  → adequate
+  HAZ (height-for-age):        -0.9  → adequate_height
+  WHZ (weight-for-height):     1.17  → overweight_risk
+
+  NUTRITIONAL CLASSIFICATION: Overweight_Risk
+  Active conditions: Overweight_Risk
+  DRI Adjustment: Overweight risk: mild energy reduction
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:       720 kcal
+  Protein:     11.0 g
+  Iron:        11.0 mg
+  Zinc:         3.0 mg
+  Calcium:      260 mg
+  Vitamin A:    500 µg
+  Vitamin C:     50 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1070 g/day
+
+  [Breakfast]  target=180 kcal | achieved=208 kcal
+    • Cereais, mistura para vitamina, trigo, c    30 g  (114 kcal)
+    • Açaí, polpa, congelada                     125 g  (73 kcal)
+    • Iogurte, sabor morango                      30 g  (21 kcal)
+
+  [Lunch]  target=252 kcal | achieved=251 kcal
+    • Carne, bovina, fígado, grelhado             40 g  (90 kcal)
+    • AÃ§aÃ­Â­. polpa (mÃ©dia de amostras).Eut    80 g  (54 kcal)
+    • Arroz. polido. cozido. c/ Ã³leo. cebola     30 g  (41 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis    95 g  (35 kcal)
+    • Batata, inglesa, cozida                     40 g  (21 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+
+  [Afternoon Snack]  target=108 kcal | achieved=115 kcal
+    • Cereais, mistura para vitamina, trigo, c    15 g  (57 kcal)
+    • Açaí, polpa, congelada                      75 g  (44 kcal)
+    • Iogurte, sabor morango                      20 g  (14 kcal)
+
+  [Dinner]  target=180 kcal | achieved=224 kcal
+    • Morango.in natura.Fragaria vesca L..       200 g  (60 kcal)
+    • AÃ§aÃ­Â­. polpa (mÃ©dia de amostras).Eut    85 g  (58 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis   105 g  (39 kcal)
+    • Arroz, integral, cozido                     30 g  (37 kcal)
+    • Batata, inglesa, cozida                     40 g  (21 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:      797.7 kcal  (110.8%)
+  Protein:      26.6 g     (241.7%)
+  Iron:        11.17 mg    (101.5%)
+  Zinc:         5.03 mg    (167.7%)
+  Calcium:     480.0 mg    (184.6%)
+  Vitamin A:  5862.3 µg    (1172.5%)
+  Vitamin C:   217.8 mg    (435.6%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 34.31
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 9-11 months: Açaí, polpa, congela (125g em Breakfast); Morango.in natura.Fr (200g em Dinner)
+
+── BREASTFEEDING ─────────────────────────────────────────────────
+  This child is under 2 years old. According to WHO guidelines,
+  breastfeeding should be maintained as a COMPLEMENT to solid
+  foods up to 2 years of age or beyond. The plan above covers
+  complementary foods only, however, breast milk remains an essential
+  part of the diet at this age.
+  Ref: WHO (2023). https://www.who.int/publications/i/item/9789240082830
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

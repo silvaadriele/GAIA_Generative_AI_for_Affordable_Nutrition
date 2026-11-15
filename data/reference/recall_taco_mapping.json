@@ -1,0 +1,3182 @@
+{
+  "LEITE MATERNO": {
+    "taco_food_id": "TACO_447",
+    "taco_food_name": "Creme de Leite",
+    "similarity": 0.5
+  },
+  "FARINHA LACTEA": {
+    "taco_food_id": "TACO_36",
+    "taco_food_name": "Farinha, láctea, de cereais",
+    "similarity": 1.0
+  },
+  "LEITE DE VACA EM PO INTEGRAL": {
+    "taco_food_id": "TACO_459",
+    "taco_food_name": "Leite, de vaca, integral, pó",
+    "similarity": 0.8333
+  },
+  "ACUCAR REFINADO": {
+    "taco_food_id": "TACO_26",
+    "taco_food_name": "Cereal matinal, milho, açúcar",
+    "similarity": 0.5
+  },
+  "FEIJAO PRETO": {
+    "taco_food_id": "TACO_568",
+    "taco_food_name": "Feijão, preto, cru",
+    "similarity": 1.0
+  },
+  "MACARRAO": {
+    "taco_food_id": "TACO_40",
+    "taco_food_name": "Macarrão, trigo, cru",
+    "similarity": 1.0
+  },
+  "MAMAO": {
+    "taco_food_id": "TACO_226",
+    "taco_food_name": "Mamão, Papaia, cru",
+    "similarity": 1.0
+  },
+  "CARNE DE SOL": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.6667
+  },
+  "IOGURTE QUALQUER SABOR": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.6667
+  },
+  "PIPOCA SALGADA": {
+    "taco_food_id": "TACO_61",
+    "taco_food_name": "Pipoca, com óleo de soja, sem sal",
+    "similarity": 0.5
+  },
+  "MACA": {
+    "taco_food_id": "TACO_178",
+    "taco_food_name": "Banana, maçã, crua",
+    "similarity": 1.0
+  },
+  "BANANA PACOVA": {
+    "taco_food_id": "TACO_181",
+    "taco_food_name": "Banana, pacova, crua",
+    "similarity": 1.0
+  },
+  "AGUA": {
+    "taco_food_id": "TACO_291",
+    "taco_food_name": "Corvina de água doce, crua",
+    "similarity": 1.0
+  },
+  "OVO MEXIDO": {
+    "taco_food_id": "TACO_489",
+    "taco_food_name": "Ovo, de galinha, inteiro, cru",
+    "similarity": 0.5
+  },
+  "BISCOITO AMANTEIGADO": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.5
+  },
+  "ARROZ BRANCO": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.5
+  },
+  "CALDO DE FEIJAO": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.6667
+  },
+  "BATATA INGLESA": {
+    "taco_food_id": "TACO_92",
+    "taco_food_name": "Batata, inglesa, crua",
+    "similarity": 1.0
+  },
+  "CENOURA": {
+    "taco_food_id": "TACO_110",
+    "taco_food_name": "Cenoura, crua",
+    "similarity": 1.0
+  },
+  "MANGA": {
+    "taco_food_id": "TACO_184",
+    "taco_food_name": "Cajá-Manga, cru",
+    "similarity": 1.0
+  },
+  "OVO DE GALINHA": {
+    "taco_food_id": "TACO_489",
+    "taco_food_name": "Ovo, de galinha, inteiro, cru",
+    "similarity": 1.0
+  },
+  "PAO FRANCES": {
+    "taco_food_id": "TACO_53",
+    "taco_food_name": "Pão, trigo, francês",
+    "similarity": 1.0
+  },
+  "LEITE DE VACA UHT INTEGRAL": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 0.8
+  },
+  "FEIJAO CARIOCA": {
+    "taco_food_id": "TACO_562",
+    "taco_food_name": "Feijão, carioca, cru",
+    "similarity": 1.0
+  },
+  "SUCO NATURAL DE MARACUJA": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "BANANA PRATA": {
+    "taco_food_id": "TACO_182",
+    "taco_food_name": "Banana, prata, crua",
+    "similarity": 1.0
+  },
+  "CARNE BOVINA": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 1.0
+  },
+  "COZIDO": {
+    "taco_food_id": "TACO_102",
+    "taco_food_name": "Cará, cozido",
+    "similarity": 1.0
+  },
+  "BISCOITO RECHEADO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 1.0
+  },
+  "FRANGO DESFIADO": {
+    "taco_food_id": "TACO_400",
+    "taco_food_name": "Frango, fígado, cru",
+    "similarity": 0.5
+  },
+  "ARROZ DE LEITE": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.6667
+  },
+  "PAO DE LEITE": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "MANTEIGA COM OU SEM SAL": {
+    "taco_food_id": "TACO_262",
+    "taco_food_name": "Manteiga, sem sal",
+    "similarity": 0.6
+  },
+  "CARNE DE PANELA": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.6667
+  },
+  "AGUA MINERAL": {
+    "taco_food_id": "TACO_291",
+    "taco_food_name": "Corvina de água doce, crua",
+    "similarity": 0.5
+  },
+  "IOGURTE DANONE MORANGO": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA EM PO INTEGRAL NINHO": {
+    "taco_food_id": "TACO_459",
+    "taco_food_name": "Leite, de vaca, integral, pó",
+    "similarity": 0.7143
+  },
+  "TORRADA DE QUALQUER PAO": {
+    "taco_food_id": "TACO_63",
+    "taco_food_name": "Torrada, pão francês",
+    "similarity": 0.5
+  },
+  "SUCO CONCENTRADO DAFRUTA CAJU": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.75
+  },
+  "AZEITE DE OLIVA": {
+    "taco_food_id": "TACO_260",
+    "taco_food_name": "Azeite, de oliva, extra virgem",
+    "similarity": 1.0
+  },
+  "CARNE MOIDA": {
+    "taco_food_id": "TACO_327",
+    "taco_food_name": "Carne, bovina, acém, moído, cru",
+    "similarity": 0.5
+  },
+  "PAO DE QUEIJO": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 1.0
+  },
+  "ACAI": {
+    "taco_food_id": "TACO_168",
+    "taco_food_name": "Açaí, polpa, congelada",
+    "similarity": 1.0
+  },
+  "JAMBO": {
+    "taco_food_id": "TACO_205",
+    "taco_food_name": "Jambo, cru",
+    "similarity": 1.0
+  },
+  "FRANGO COM BATATA": {
+    "taco_food_id": "TACO_391",
+    "taco_food_name": "Frango, asa, com pele, crua",
+    "similarity": 0.6667
+  },
+  "PAO DOCE": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "CARNE COZIDA COM LEGUMES E BATATA": {
+    "taco_food_id": "TACO_361",
+    "taco_food_name": "Carne, bovina, fraldinha, com gordura, cozida",
+    "similarity": 0.5
+  },
+  "BISCOITO MAISENA": {
+    "taco_food_id": "TACO_8",
+    "taco_food_name": "Biscoito, doce, maisena",
+    "similarity": 1.0
+  },
+  "LINGUICA TOSCANA": {
+    "taco_food_id": "TACO_418",
+    "taco_food_name": "Lingüiça, frango, crua",
+    "similarity": 0.5
+  },
+  "SUCO CONCENTRADO DE CAJU NAO ESPECIFICADO": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "CARNE COM BATATA": {
+    "taco_food_id": "TACO_373",
+    "taco_food_name": "Carne, bovina, paleta, com gordura, crua",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA INTEGRAL": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 1.0
+  },
+  "PIPOCA DOCE": {
+    "taco_food_id": "TACO_61",
+    "taco_food_name": "Pipoca, com óleo de soja, sem sal",
+    "similarity": 0.5
+  },
+  "SUCO CONCENTRADO DE MARACUJA NAO ESPECIFICADO": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "FEIJAO MULATINHO": {
+    "taco_food_id": "TACO_564",
+    "taco_food_name": "Feijão, fradinho, cru",
+    "similarity": 0.5
+  },
+  "LEITE FERMENTADO CHAMYTO": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.6667
+  },
+  "SUCO NATURAL DE CAJU": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "SUCO CONCENTRADO JANDAIA UVA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.75
+  },
+  "FARINHA LACTEA NESTLE": {
+    "taco_food_id": "TACO_36",
+    "taco_food_name": "Farinha, láctea, de cereais",
+    "similarity": 0.6667
+  },
+  "BISCOITO RECHEADO PIRAQUE MORANGO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.75
+  },
+  "COXINHA": {
+    "taco_food_id": "TACO_386",
+    "taco_food_name": "Coxinha de frango, frita",
+    "similarity": 1.0
+  },
+  "HAMBURGUER DE CARNE BOVINA": {
+    "taco_food_id": "TACO_415",
+    "taco_food_name": "Hambúrguer, bovino, cru",
+    "similarity": 0.8088
+  },
+  "BISCOITO RECHEADO CHOCOLATE NAO ESPECIFICADO": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.6
+  },
+  "LEITE FERMENTADO": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 1.0
+  },
+  "PAO COM MORTADELA": {
+    "taco_food_id": "TACO_424",
+    "taco_food_name": "Mortadela",
+    "similarity": 0.8837
+  },
+  "FARINHA DE MANDIOCA": {
+    "taco_food_id": "TACO_121",
+    "taco_food_name": "Farinha, de mandioca, crua",
+    "similarity": 1.0
+  },
+  "LEITE ACHOCOLATADO": {
+    "taco_food_id": "TACO_455",
+    "taco_food_name": "Leite, de vaca, achocolatado",
+    "similarity": 1.0
+  },
+  "PAO DE HAMBURGUER": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "ACUCAR CRISTAL": {
+    "taco_food_id": "TACO_26",
+    "taco_food_name": "Cereal matinal, milho, açúcar",
+    "similarity": 0.5
+  },
+  "FRANGO A PASSARINHO": {
+    "taco_food_id": "TACO_401",
+    "taco_food_name": "Frango, filé, à milanesa",
+    "similarity": 0.6667
+  },
+  "PAO CARECA": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "CARNE SECA": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 1.0
+  },
+  "CARNE DE BOI COM LEGUMES": {
+    "taco_food_id": "TACO_334",
+    "taco_food_name": "Carne, bovina, capa de contra-filé, com gordura, crua",
+    "similarity": 0.6
+  },
+  "PAO COM MANTEIGA": {
+    "taco_food_id": "TACO_261",
+    "taco_food_name": "Manteiga, com sal",
+    "similarity": 0.8363
+  },
+  "FARINHA DE AGUA": {
+    "taco_food_id": "TACO_35",
+    "taco_food_name": "Farinha, de trigo",
+    "similarity": 0.6667
+  },
+  "BOLO DE CHOCOLATE": {
+    "taco_food_id": "TACO_16",
+    "taco_food_name": "Bolo, pronto, chocolate",
+    "similarity": 0.6667
+  },
+  "MACARRAO INSTANTANEO": {
+    "taco_food_id": "TACO_39",
+    "taco_food_name": "Macarrão, instantâneo",
+    "similarity": 1.0
+  },
+  "BISCOITO DOCE": {
+    "taco_food_id": "TACO_8",
+    "taco_food_name": "Biscoito, doce, maisena",
+    "similarity": 1.0
+  },
+  "PAO COM QUEIJO": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.6667
+  },
+  "FRANGO ENSOPADO": {
+    "taco_food_id": "TACO_400",
+    "taco_food_name": "Frango, fígado, cru",
+    "similarity": 0.5
+  },
+  "MINGAU DE FLOCOS DE AVEIA": {
+    "taco_food_id": "TACO_7",
+    "taco_food_name": "Aveia, flocos, crua",
+    "similarity": 0.7522
+  },
+  "LARANJA LIMA": {
+    "taco_food_id": "TACO_213",
+    "taco_food_name": "Laranja, lima, suco",
+    "similarity": 1.0
+  },
+  "SUCO CONCENTRADO DE UVA NAO ESPECIFICADO": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "BROCOLIS": {
+    "taco_food_id": "TACO_101",
+    "taco_food_name": "Brócolis, cru",
+    "similarity": 1.0
+  },
+  "TOMATE": {
+    "taco_food_id": "TACO_161",
+    "taco_food_name": "Tomate, salada",
+    "similarity": 1.0
+  },
+  "AGRIAO": {
+    "taco_food_id": "TACO_75",
+    "taco_food_name": "Agrião, cru",
+    "similarity": 1.0
+  },
+  "PAO CACETINHO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "SUCO CONCENTRADO BELA ISCHIA MARACUJA": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.6
+  },
+  "ALFACE": {
+    "taco_food_id": "TACO_80",
+    "taco_food_name": "Alface, roxa, crua",
+    "similarity": 1.0
+  },
+  "SUCO NATURAL DE LARANJA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "ABOBRINHA": {
+    "taco_food_id": "TACO_71",
+    "taco_food_name": "Abobrinha, italiana, crua",
+    "similarity": 1.0
+  },
+  "BATATA DOCE": {
+    "taco_food_id": "TACO_89",
+    "taco_food_name": "Batata, doce, crua",
+    "similarity": 1.0
+  },
+  "FIGADO BOVINO": {
+    "taco_food_id": "TACO_355",
+    "taco_food_name": "Carne, bovina, fígado, cru",
+    "similarity": 0.5
+  },
+  "FEIJAO FRADINHO SALADA": {
+    "taco_food_id": "TACO_564",
+    "taco_food_name": "Feijão, fradinho, cru",
+    "similarity": 0.6667
+  },
+  "BOLO ANA MARIA CHOCOLATE": {
+    "taco_food_id": "TACO_16",
+    "taco_food_name": "Bolo, pronto, chocolate",
+    "similarity": 0.5
+  },
+  "LEITE FERMENTADO VIGOR TRADICIONAL": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.5
+  },
+  "LASANHA": {
+    "taco_food_id": "TACO_38",
+    "taco_food_name": "Lasanha, massa fresca, crua",
+    "similarity": 1.0
+  },
+  "CHUCHU": {
+    "taco_food_id": "TACO_113",
+    "taco_food_name": "Chuchu, cru",
+    "similarity": 1.0
+  },
+  "MORTADELA": {
+    "taco_food_id": "TACO_424",
+    "taco_food_name": "Mortadela",
+    "similarity": 1.0
+  },
+  "QUEIJO PARMESAO RALADO": {
+    "taco_food_id": "TACO_464",
+    "taco_food_name": "Queijo, parmesão",
+    "similarity": 0.6667
+  },
+  "MARGARINA COM OU SEM SAL": {
+    "taco_food_id": "TACO_266",
+    "taco_food_name": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "similarity": 0.8
+  },
+  "LEITE DE VACA UHT INTEGRAL NINHO": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 0.6667
+  },
+  "REPOLHO VERDE": {
+    "taco_food_id": "TACO_149",
+    "taco_food_name": "Repolho, branco, cru",
+    "similarity": 0.5
+  },
+  "IOGURTE FRIMESA BICAMADAS MORANGO": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.5
+  },
+  "LINGUICA CALABRESA": {
+    "taco_food_id": "TACO_418",
+    "taco_food_name": "Lingüiça, frango, crua",
+    "similarity": 0.5
+  },
+  "CARNE COM AIPIM": {
+    "taco_food_id": "TACO_380",
+    "taco_food_name": "Carne, bovina, picanha, com gordura, crua",
+    "similarity": 0.6667
+  },
+  "FEIJAO TROPEIRO": {
+    "taco_food_id": "TACO_574",
+    "taco_food_name": "Feijão, roxo, cru",
+    "similarity": 0.5
+  },
+  "OMELETE": {
+    "taco_food_id": "TACO_484",
+    "taco_food_name": "Omelete, de queijo",
+    "similarity": 1.0
+  },
+  "BETERRABA": {
+    "taco_food_id": "TACO_98",
+    "taco_food_name": "Beterraba, crua",
+    "similarity": 1.0
+  },
+  "AGUA DE COCO": {
+    "taco_food_id": "TACO_291",
+    "taco_food_name": "Corvina de água doce, crua",
+    "similarity": 0.6667
+  },
+  "MELANCIA": {
+    "taco_food_id": "TACO_235",
+    "taco_food_name": "Melancia, crua",
+    "similarity": 1.0
+  },
+  "ARROZ INTEGRAL": {
+    "taco_food_id": "TACO_2",
+    "taco_food_name": "Arroz, integral, cru",
+    "similarity": 1.0
+  },
+  "BISTECA BOVINA": {
+    "taco_food_id": "TACO_427",
+    "taco_food_name": "Porco, bisteca, crua",
+    "similarity": 0.5
+  },
+  "VITAMINA MISTA": {
+    "taco_food_id": "TACO_24",
+    "taco_food_name": "Cereais, mistura para vitamina, trigo, cevada e aveia",
+    "similarity": 0.5
+  },
+  "REQUEIJAO": {
+    "taco_food_id": "TACO_468",
+    "taco_food_name": "Queijo, requeijão, cremoso",
+    "similarity": 1.0
+  },
+  "BISCOITO RECHEADO BAUDUCCO RECHEADINHO CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.6
+  },
+  "LEITE FERMENTADO YAKULT": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.6667
+  },
+  "PETIT SUISSE DANONINHO MORANGO": {
+    "taco_food_id": "TACO_466",
+    "taco_food_name": "Queijo, petit suisse, morango",
+    "similarity": 0.75
+  },
+  "SUCO NECTAR VIG LARANJA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "CREME DE LEITE": {
+    "taco_food_id": "TACO_447",
+    "taco_food_name": "Creme de Leite",
+    "similarity": 1.0
+  },
+  "BISCOITO SALGADO": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 1.0
+  },
+  "SUCO NECTAR DAFRUTA LARANJA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "MANDIOCA": {
+    "taco_food_id": "TACO_130",
+    "taco_food_name": "Mandioca, crua",
+    "similarity": 1.0
+  },
+  "CARNE DE PORCO": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA INTEGRAL PASTEURIZADO": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 0.8
+  },
+  "MEXERICA": {
+    "taco_food_id": "TACO_238",
+    "taco_food_name": "Mexerica, Rio, crua",
+    "similarity": 1.0
+  },
+  "ABACATE": {
+    "taco_food_id": "TACO_163",
+    "taco_food_name": "Abacate, cru",
+    "similarity": 1.0
+  },
+  "BISCOITO CREAM CRACKER": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 1.0
+  },
+  "CARNE DE GALINHA": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.6667
+  },
+  "PERA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 1.0
+  },
+  "LARANJA PERA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 1.0
+  },
+  "COUVE": {
+    "taco_food_id": "TACO_117",
+    "taco_food_name": "Couve-flor, crua",
+    "similarity": 1.0
+  },
+  "PAO DE AGUA": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "ACAI COM GUARANA E GRANOLA": {
+    "taco_food_id": "TACO_167",
+    "taco_food_name": "Açaí, polpa, com xarope de guaraná e glucose",
+    "similarity": 0.8
+  },
+  "BATATA FRITA NAO ESPECIFICADA": {
+    "taco_food_id": "TACO_93",
+    "taco_food_name": "Batata, inglesa, frita",
+    "similarity": 0.5
+  },
+  "LEITE DE CABRA": {
+    "taco_food_id": "TACO_454",
+    "taco_food_name": "Leite, de cabra",
+    "similarity": 1.0
+  },
+  "PIPOCA YOKI NATURAL COM SAL": {
+    "taco_food_id": "TACO_61",
+    "taco_food_name": "Pipoca, com óleo de soja, sem sal",
+    "similarity": 0.6
+  },
+  "TAMARINDO": {
+    "taco_food_id": "TACO_250",
+    "taco_food_name": "Tamarindo, cru",
+    "similarity": 1.0
+  },
+  "CALDO DE MOCOTO": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA EM PO NAO ESPECIFICADO": {
+    "taco_food_id": "TACO_456",
+    "taco_food_name": "Leite, de vaca, desnatado, pó",
+    "similarity": 0.5714
+  },
+  "LEITE DE VACA EM PO DESNATADO": {
+    "taco_food_id": "TACO_456",
+    "taco_food_name": "Leite, de vaca, desnatado, pó",
+    "similarity": 0.8333
+  },
+  "IOGURTE PAULISTA MORANGO": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.6667
+  },
+  "FEIJAO COM BETERRABA": {
+    "taco_food_id": "TACO_98",
+    "taco_food_name": "Beterraba, crua",
+    "similarity": 0.7404
+  },
+  "INHAME": {
+    "taco_food_id": "TACO_126",
+    "taco_food_name": "Inhame, cru",
+    "similarity": 1.0
+  },
+  "HAMBURGUER": {
+    "taco_food_id": "TACO_415",
+    "taco_food_name": "Hambúrguer, bovino, cru",
+    "similarity": 1.0
+  },
+  "PAO DE TRIGO": {
+    "taco_food_id": "TACO_53",
+    "taco_food_name": "Pão, trigo, francês",
+    "similarity": 0.6667
+  },
+  "CALDO DE PEIXE": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.6667
+  },
+  "LEITE FERMENTADO DANONE": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.6667
+  },
+  "IOGURTE ITAMBE MORANGO": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.6667
+  },
+  "SUCO NATURAL DE LIMAO": {
+    "taco_food_id": "TACO_219",
+    "taco_food_name": "Limão, galego, suco",
+    "similarity": 0.5
+  },
+  "PE DE MOLEQUE": {
+    "taco_food_id": "TACO_580",
+    "taco_food_name": "Pé-de-moleque, amendoim",
+    "similarity": 1.0
+  },
+  "BISCOITO WAFER": {
+    "taco_food_id": "TACO_12",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de morango",
+    "similarity": 1.0
+  },
+  "LINGUA BOVINA": {
+    "taco_food_id": "TACO_366",
+    "taco_food_name": "Carne, bovina, língua, crua",
+    "similarity": 1.0
+  },
+  "BANANA DA TERRA": {
+    "taco_food_id": "TACO_175",
+    "taco_food_name": "Banana, da terra, crua",
+    "similarity": 1.0
+  },
+  "MAMAO FORMOSA": {
+    "taco_food_id": "TACO_225",
+    "taco_food_name": "Mamão, Formosa, cru",
+    "similarity": 1.0
+  },
+  "MAMAO PAPAIA": {
+    "taco_food_id": "TACO_226",
+    "taco_food_name": "Mamão, Papaia, cru",
+    "similarity": 1.0
+  },
+  "MACARRAO COM FEIJAO": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.6667
+  },
+  "CARNE ASSADA RECHEADA": {
+    "taco_food_id": "TACO_347",
+    "taco_food_name": "Carne, bovina, costela, assada",
+    "similarity": 0.6667
+  },
+  "CHIPS SALGADINHOS": {
+    "taco_food_id": "TACO_90",
+    "taco_food_name": "Batata, frita, tipo chips, industrializada",
+    "similarity": 0.5
+  },
+  "ROSCA RECHEADA": {
+    "taco_food_id": "TACO_34",
+    "taco_food_name": "Farinha, de rosca",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO MABEL CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.75
+  },
+  "PAO CARECA INTEGRAL": {
+    "taco_food_id": "TACO_52",
+    "taco_food_name": "Pão, trigo, forma, integral",
+    "similarity": 0.6667
+  },
+  "BATATA CHIPS RUFFLES ORIGINAL": {
+    "taco_food_id": "TACO_90",
+    "taco_food_name": "Batata, frita, tipo chips, industrializada",
+    "similarity": 0.5
+  },
+  "BOLO SIMPLES": {
+    "taco_food_id": "TACO_17",
+    "taco_food_name": "Bolo, pronto, coco",
+    "similarity": 0.5
+  },
+  "MACARRAO COM CARNE": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.6667
+  },
+  "PASTEL ASSADO DE CARNE": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.75
+  },
+  "AIPIM": {
+    "taco_food_id": "TACO_15",
+    "taco_food_name": "Bolo, pronto, aipim",
+    "similarity": 1.0
+  },
+  "PRESUNTO": {
+    "taco_food_id": "TACO_438",
+    "taco_food_name": "Presunto, com capa de gordura",
+    "similarity": 1.0
+  },
+  "UVA": {
+    "taco_food_id": "TACO_256",
+    "taco_food_name": "Uva, Itália, crua",
+    "similarity": 1.0
+  },
+  "FILE DE FRANGO": {
+    "taco_food_id": "TACO_401",
+    "taco_food_name": "Frango, filé, à milanesa",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA INTEGRAL FRESCO": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 0.8
+  },
+  "APRESUNTADO": {
+    "taco_food_id": "TACO_323",
+    "taco_food_name": "Apresuntado",
+    "similarity": 1.0
+  },
+  "LINGUICA BOVINA": {
+    "taco_food_id": "TACO_418",
+    "taco_food_name": "Lingüiça, frango, crua",
+    "similarity": 0.5
+  },
+  "LEITE CONDENSADO": {
+    "taco_food_id": "TACO_453",
+    "taco_food_name": "Leite, condensado",
+    "similarity": 1.0
+  },
+  "BISCOITO RECHEADO RICHESTER CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.75
+  },
+  "BISCOITO RECHEADO BONO CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.75
+  },
+  "CARNE ENSOPADA": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.5
+  },
+  "OVO CLARA": {
+    "taco_food_id": "TACO_486",
+    "taco_food_name": "Ovo, de galinha, clara, cozida/10minutos",
+    "similarity": 1.0
+  },
+  "PASTEL DE CARNE": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 1.0
+  },
+  "TANGERINA": {
+    "taco_food_id": "TACO_252",
+    "taco_food_name": "Tangerina, Poncã, suco",
+    "similarity": 1.0
+  },
+  "MARGARINA QUALY": {
+    "taco_food_id": "TACO_266",
+    "taco_food_name": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "similarity": 0.5
+  },
+  "AMIDO DE MILHO MAIZENA": {
+    "taco_food_id": "TACO_42",
+    "taco_food_name": "Milho, amido, cru",
+    "similarity": 0.5
+  },
+  "PASTEL DE FORNO DE QUEIJO": {
+    "taco_food_id": "TACO_57",
+    "taco_food_name": "Pastel, de queijo, cru",
+    "similarity": 0.75
+  },
+  "QUEIJO MUCARELA": {
+    "taco_food_id": "TACO_463",
+    "taco_food_name": "Queijo, mozarela",
+    "similarity": 0.5
+  },
+  "GOIABA": {
+    "taco_food_id": "TACO_198",
+    "taco_food_name": "Goiaba, doce em pasta",
+    "similarity": 1.0
+  },
+  "SUCO NATURAL DE CUPUACU": {
+    "taco_food_id": "TACO_192",
+    "taco_food_name": "Cupuaçu, cru",
+    "similarity": 0.7302
+  },
+  "BANANA DAGUA": {
+    "taco_food_id": "TACO_178",
+    "taco_food_name": "Banana, maçã, crua",
+    "similarity": 0.5
+  },
+  "LEITE DE VACA DESNATADO": {
+    "taco_food_id": "TACO_456",
+    "taco_food_name": "Leite, de vaca, desnatado, pó",
+    "similarity": 1.0
+  },
+  "SUCO CONCENTRADO JANDAIA CAJU": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.75
+  },
+  "ABOBORA": {
+    "taco_food_id": "TACO_67",
+    "taco_food_name": "Abóbora, moranga, crua",
+    "similarity": 1.0
+  },
+  "PEPINO": {
+    "taco_food_id": "TACO_142",
+    "taco_food_name": "Pepino, cru",
+    "similarity": 1.0
+  },
+  "LINGUICA DE FRANGO": {
+    "taco_food_id": "TACO_418",
+    "taco_food_name": "Lingüiça, frango, crua",
+    "similarity": 0.6667
+  },
+  "LARANJA DA TERRA": {
+    "taco_food_id": "TACO_211",
+    "taco_food_name": "Laranja, da terra, suco",
+    "similarity": 1.0
+  },
+  "IOGURTE NINHO MORANGO": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.6667
+  },
+  "MARGARINA DELICIA": {
+    "taco_food_id": "TACO_266",
+    "taco_food_name": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "similarity": 0.5
+  },
+  "FILE DE PEIXE": {
+    "taco_food_id": "TACO_306",
+    "taco_food_name": "Pescada, filé, com farinha de trigo, frito",
+    "similarity": 0.6667
+  },
+  "PAO DE MEL": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "PAO INTEGRAL": {
+    "taco_food_id": "TACO_52",
+    "taco_food_name": "Pão, trigo, forma, integral",
+    "similarity": 1.0
+  },
+  "LINGUICA MISTA": {
+    "taco_food_id": "TACO_418",
+    "taco_food_name": "Lingüiça, frango, crua",
+    "similarity": 0.5
+  },
+  "BOLO DE MILHO": {
+    "taco_food_id": "TACO_18",
+    "taco_food_name": "Bolo, pronto, milho",
+    "similarity": 0.6667
+  },
+  "PASTEL ASSADO DE QUEIJO": {
+    "taco_food_id": "TACO_57",
+    "taco_food_name": "Pastel, de queijo, cru",
+    "similarity": 0.75
+  },
+  "CAQUI": {
+    "taco_food_id": "TACO_189",
+    "taco_food_name": "Caqui, chocolate, cru",
+    "similarity": 1.0
+  },
+  "SUCO NATURAL DE BETERRABA": {
+    "taco_food_id": "TACO_98",
+    "taco_food_name": "Beterraba, crua",
+    "similarity": 0.7018
+  },
+  "SUCO NATURAL DE UVA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "MARACUJA": {
+    "taco_food_id": "TACO_232",
+    "taco_food_name": "Maracujá, cru",
+    "similarity": 1.0
+  },
+  "PASTEL DE FORNO DE CARNE": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.75
+  },
+  "MINGAU DE CREME DE ARROZ": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.7543
+  },
+  "FRANGO CAIPIRA": {
+    "taco_food_id": "TACO_392",
+    "taco_food_name": "Frango, caipira, inteiro, com pele, cozido",
+    "similarity": 1.0
+  },
+  "BISCOITO WAFER MIRABEL MORANGO": {
+    "taco_food_id": "TACO_12",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de morango",
+    "similarity": 0.75
+  },
+  "PAO DE COCO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "IOGURTE NATURAL": {
+    "taco_food_id": "TACO_448",
+    "taco_food_name": "Iogurte, natural",
+    "similarity": 1.0
+  },
+  "CARNE DE CHARQUE": {
+    "taco_food_id": "TACO_339",
+    "taco_food_name": "Carne, bovina, charque, cru",
+    "similarity": 0.6667
+  },
+  "MINGAU DE MILHO": {
+    "taco_food_id": "TACO_23",
+    "taco_food_name": "Cereais, mingau, milho, infantil",
+    "similarity": 0.6667
+  },
+  "SUCO NECTAR DAFRUTA UVA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "PETIT GATEAU": {
+    "taco_food_id": "TACO_466",
+    "taco_food_name": "Queijo, petit suisse, morango",
+    "similarity": 0.5
+  },
+  "CAJU": {
+    "taco_food_id": "TACO_186",
+    "taco_food_name": "Caju, cru",
+    "similarity": 1.0
+  },
+  "MELAO": {
+    "taco_food_id": "TACO_236",
+    "taco_food_name": "Melão, cru",
+    "similarity": 1.0
+  },
+  "QUEIJO LANCHE": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.5
+  },
+  "BOLO INGLES": {
+    "taco_food_id": "TACO_17",
+    "taco_food_name": "Bolo, pronto, coco",
+    "similarity": 0.5
+  },
+  "CARNE SUINA": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 0.5
+  },
+  "WAFER BISCOITO": {
+    "taco_food_id": "TACO_12",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de morango",
+    "similarity": 1.0
+  },
+  "MILHO COZIDO": {
+    "taco_food_id": "TACO_42",
+    "taco_food_name": "Milho, amido, cru",
+    "similarity": 0.5
+  },
+  "CHOCOLATE": {
+    "taco_food_id": "TACO_189",
+    "taco_food_name": "Caqui, chocolate, cru",
+    "similarity": 1.0
+  },
+  "POLENTA": {
+    "taco_food_id": "TACO_62",
+    "taco_food_name": "Polenta, pré-cozida",
+    "similarity": 1.0
+  },
+  "PACOCA": {
+    "taco_food_id": "TACO_579",
+    "taco_food_name": "Paçoca, amendoim",
+    "similarity": 1.0
+  },
+  "BOLO DE ABACAXI": {
+    "taco_food_id": "TACO_164",
+    "taco_food_name": "Abacaxi, cru",
+    "similarity": 0.7761
+  },
+  "MACARRAO COM SALSICHA": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.6667
+  },
+  "SALAME": {
+    "taco_food_id": "TACO_443",
+    "taco_food_name": "Salame",
+    "similarity": 1.0
+  },
+  "PAO COM SALAME": {
+    "taco_food_id": "TACO_443",
+    "taco_food_name": "Salame",
+    "similarity": 0.8289
+  },
+  "MARGARINA BECEL": {
+    "taco_food_id": "TACO_266",
+    "taco_food_name": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "similarity": 0.5
+  },
+  "CALDO DE CARNE": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 1.0
+  },
+  "QUEIJO MUSSARELA": {
+    "taco_food_id": "TACO_463",
+    "taco_food_name": "Queijo, mozarela",
+    "similarity": 0.5
+  },
+  "PAO DE SAL": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "CEREAL MATINAL CHOCOBOLL": {
+    "taco_food_id": "TACO_25",
+    "taco_food_name": "Cereal matinal, milho",
+    "similarity": 0.6667
+  },
+  "MILHO VERDE EM CONSERVA": {
+    "taco_food_id": "TACO_44",
+    "taco_food_name": "Milho, verde, cru",
+    "similarity": 0.5
+  },
+  "QUIABO": {
+    "taco_food_id": "TACO_147",
+    "taco_food_name": "Quiabo, cru",
+    "similarity": 1.0
+  },
+  "BISCOITO DE POLVILHO": {
+    "taco_food_id": "TACO_99",
+    "taco_food_name": "Biscoito, polvilho doce",
+    "similarity": 0.6667
+  },
+  "REPOLHO ROXO": {
+    "taco_food_id": "TACO_150",
+    "taco_food_name": "Repolho, roxo, cru",
+    "similarity": 1.0
+  },
+  "ACUCAR DEMERARA": {
+    "taco_food_id": "TACO_26",
+    "taco_food_name": "Cereal matinal, milho, açúcar",
+    "similarity": 0.5
+  },
+  "QUEIJO DE MINAS": {
+    "taco_food_id": "TACO_461",
+    "taco_food_name": "Queijo, minas, frescal",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA SEMIDESNATADO": {
+    "taco_food_id": "TACO_456",
+    "taco_food_name": "Leite, de vaca, desnatado, pó",
+    "similarity": 0.75
+  },
+  "FARINHA DE AVEIA": {
+    "taco_food_id": "TACO_35",
+    "taco_food_name": "Farinha, de trigo",
+    "similarity": 0.6667
+  },
+  "COUVE FLOR": {
+    "taco_food_id": "TACO_117",
+    "taco_food_name": "Couve-flor, crua",
+    "similarity": 1.0
+  },
+  "CASTANHA DE CAJU": {
+    "taco_food_id": "TACO_588",
+    "taco_food_name": "Castanha-de-caju, torrada, salgada",
+    "similarity": 1.0
+  },
+  "BISCOITO WAFFER": {
+    "taco_food_id": "TACO_12",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de morango",
+    "similarity": 0.5
+  },
+  "MACARRAO INTEGRAL": {
+    "taco_food_id": "TACO_40",
+    "taco_food_name": "Macarrão, trigo, cru",
+    "similarity": 0.5
+  },
+  "BATATA BAROA": {
+    "taco_food_id": "TACO_87",
+    "taco_food_name": "Batata, baroa, crua",
+    "similarity": 1.0
+  },
+  "CARNE COM INHAME": {
+    "taco_food_id": "TACO_362",
+    "taco_food_name": "Carne, bovina, fraldinha, com gordura, crua",
+    "similarity": 0.6667
+  },
+  "CEBOLA": {
+    "taco_food_id": "TACO_107",
+    "taco_food_name": "Cebola, crua",
+    "similarity": 1.0
+  },
+  "LIMAO COMUM": {
+    "taco_food_id": "TACO_218",
+    "taco_food_name": "Limão, cravo, suco",
+    "similarity": 0.5
+  },
+  "OLEO DE SOJA": {
+    "taco_food_id": "TACO_272",
+    "taco_food_name": "Óleo, de soja",
+    "similarity": 1.0
+  },
+  "SALADA DE TOMATE": {
+    "taco_food_id": "TACO_161",
+    "taco_food_name": "Tomate, salada",
+    "similarity": 0.6667
+  },
+  "ALHO": {
+    "taco_food_id": "TACO_82",
+    "taco_food_name": "Alho, cru",
+    "similarity": 1.0
+  },
+  "SOPA DE BATATA BAROA": {
+    "taco_food_id": "TACO_87",
+    "taco_food_name": "Batata, baroa, crua",
+    "similarity": 0.8075
+  },
+  "BOLO DE CENOURA": {
+    "taco_food_id": "TACO_110",
+    "taco_food_name": "Cenoura, crua",
+    "similarity": 0.7212
+  },
+  "MOLHO DE TOMATE": {
+    "taco_food_id": "TACO_159",
+    "taco_food_name": "Tomate, molho industrializado",
+    "similarity": 0.6667
+  },
+  "ARROZ CARRETEIRO": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.5
+  },
+  "LEITE DE VACA UHT INTEGRAL PIRACANJUBA  ZERO LACTOSE": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 0.5
+  },
+  "LEITE DE SOJA EM PO": {
+    "taco_food_id": "TACO_459",
+    "taco_food_name": "Leite, de vaca, integral, pó",
+    "similarity": 0.6
+  },
+  "REPOLHO": {
+    "taco_food_id": "TACO_149",
+    "taco_food_name": "Repolho, branco, cru",
+    "similarity": 1.0
+  },
+  "FRANGO COM INHAME": {
+    "taco_food_id": "TACO_402",
+    "taco_food_name": "Frango, inteiro, com pele, cru",
+    "similarity": 0.6667
+  },
+  "JILO": {
+    "taco_food_id": "TACO_127",
+    "taco_food_name": "Jiló, cru",
+    "similarity": 1.0
+  },
+  "CARNE DESFIADA": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.5
+  },
+  "COSTELA BOVINA": {
+    "taco_food_id": "TACO_348",
+    "taco_food_name": "Carne, bovina, costela, crua",
+    "similarity": 1.0
+  },
+  "AMENDOIM TORRADO": {
+    "taco_food_id": "TACO_558",
+    "taco_food_name": "Amendoim, torrado, salgado",
+    "similarity": 1.0
+  },
+  "SUCO VERDE": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "TORRADA INTEGRAL": {
+    "taco_food_id": "TACO_63",
+    "taco_food_name": "Torrada, pão francês",
+    "similarity": 0.5
+  },
+  "AVEIA EM FLOCOS": {
+    "taco_food_id": "TACO_7",
+    "taco_food_name": "Aveia, flocos, crua",
+    "similarity": 0.6667
+  },
+  "AMEIXA": {
+    "taco_food_id": "TACO_172",
+    "taco_food_name": "Ameixa, crua",
+    "similarity": 1.0
+  },
+  "MORANGO": {
+    "taco_food_id": "TACO_239",
+    "taco_food_name": "Morango, cru",
+    "similarity": 1.0
+  },
+  "PETIT SUISSE NINHO MORANGO": {
+    "taco_food_id": "TACO_466",
+    "taco_food_name": "Queijo, petit suisse, morango",
+    "similarity": 0.75
+  },
+  "PAO TRIGO SOVADO": {
+    "taco_food_id": "TACO_54",
+    "taco_food_name": "Pão, trigo, sovado",
+    "similarity": 1.0
+  },
+  "PESSEGO": {
+    "taco_food_id": "TACO_244",
+    "taco_food_name": "Pêssego, Aurora, cru",
+    "similarity": 1.0
+  },
+  "ABACAXI": {
+    "taco_food_id": "TACO_164",
+    "taco_food_name": "Abacaxi, cru",
+    "similarity": 1.0
+  },
+  "LINGUA SUINA": {
+    "taco_food_id": "TACO_366",
+    "taco_food_name": "Carne, bovina, língua, crua",
+    "similarity": 0.5
+  },
+  "LENTILHA": {
+    "taco_food_id": "TACO_578",
+    "taco_food_name": "Lentilha, crua",
+    "similarity": 1.0
+  },
+  "SUCO NECTAR MAGUARY UVA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "PETIT SUISSE DANONINHO BANANA": {
+    "taco_food_id": "TACO_466",
+    "taco_food_name": "Queijo, petit suisse, morango",
+    "similarity": 0.5
+  },
+  "CALDO VERDE": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.5
+  },
+  "PETIT SUISSE CHAMBINHO MORANGO": {
+    "taco_food_id": "TACO_466",
+    "taco_food_name": "Queijo, petit suisse, morango",
+    "similarity": 0.75
+  },
+  "BISCOITO CREAM CRACKER TRIUNFO": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.75
+  },
+  "BISCOITO RECHEADO TRAKINAS MORANGO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.75
+  },
+  "BISCOITO RECHEADO TRAKINAS CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.75
+  },
+  "LINGUICA SUINA": {
+    "taco_food_id": "TACO_418",
+    "taco_food_name": "Lingüiça, frango, crua",
+    "similarity": 0.5
+  },
+  "LARANJA SELETA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "VACA ATOLADA": {
+    "taco_food_id": "TACO_455",
+    "taco_food_name": "Leite, de vaca, achocolatado",
+    "similarity": 0.5
+  },
+  "CENOURA AMARELA": {
+    "taco_food_id": "TACO_110",
+    "taco_food_name": "Cenoura, crua",
+    "similarity": 0.5
+  },
+  "BISCOITO DOCE INTEGRAL": {
+    "taco_food_id": "TACO_8",
+    "taco_food_name": "Biscoito, doce, maisena",
+    "similarity": 0.6667
+  },
+  "MACARRAO COM LEGUMES": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.6667
+  },
+  "CEREAL MATINAL NESCAU": {
+    "taco_food_id": "TACO_25",
+    "taco_food_name": "Cereal matinal, milho",
+    "similarity": 0.6667
+  },
+  "IOGURTE CASEIRO": {
+    "taco_food_id": "TACO_448",
+    "taco_food_name": "Iogurte, natural",
+    "similarity": 0.5
+  },
+  "LEITE DE VACA UHT DESNATADO": {
+    "taco_food_id": "TACO_457",
+    "taco_food_name": "Leite, de vaca, desnatado, UHT",
+    "similarity": 1.0
+  },
+  "DOCE DE LEITE": {
+    "taco_food_id": "TACO_295",
+    "taco_food_name": "Dourada de água doce, fresca",
+    "similarity": 0.6667
+  },
+  "MARGARINA DORIANA": {
+    "taco_food_id": "TACO_266",
+    "taco_food_name": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "similarity": 0.5
+  },
+  "RABANETE": {
+    "taco_food_id": "TACO_148",
+    "taco_food_name": "Rabanete, cru",
+    "similarity": 1.0
+  },
+  "MASSA INTEGRAL": {
+    "taco_food_id": "TACO_59",
+    "taco_food_name": "Pastel, massa, crua",
+    "similarity": 0.5
+  },
+  "LEITE COM SABOR": {
+    "taco_food_id": "TACO_20",
+    "taco_food_name": "Canjica, com leite integral",
+    "similarity": 0.6667
+  },
+  "OVOS MOLES": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.5
+  },
+  "BOLO DE COCO": {
+    "taco_food_id": "TACO_17",
+    "taco_food_name": "Bolo, pronto, coco",
+    "similarity": 0.6667
+  },
+  "PAO DE FORMA PANCO": {
+    "taco_food_id": "TACO_51",
+    "taco_food_name": "Pão, milho, forma",
+    "similarity": 0.5
+  },
+  "MACARRAO COM ATUM EM CONSERVA": {
+    "taco_food_id": "TACO_277",
+    "taco_food_name": "Atum, conserva em óleo",
+    "similarity": 0.7388
+  },
+  "BATATA PALHA": {
+    "taco_food_id": "TACO_89",
+    "taco_food_name": "Batata, doce, crua",
+    "similarity": 0.5
+  },
+  "AMENDOIM CARAMELIZADO": {
+    "taco_food_id": "TACO_557",
+    "taco_food_name": "Amendoim, grão, cru",
+    "similarity": 0.5
+  },
+  "DOCE DE AMENDOIM": {
+    "taco_food_id": "TACO_295",
+    "taco_food_name": "Dourada de água doce, fresca",
+    "similarity": 0.6667
+  },
+  "PASTEL MASSA FRESCA FRITA CASEIRO": {
+    "taco_food_id": "TACO_60",
+    "taco_food_name": "Pastel, massa, frita",
+    "similarity": 0.6
+  },
+  "LEITE DE VACA EM PO INTEGRAL ITAMBE": {
+    "taco_food_id": "TACO_459",
+    "taco_food_name": "Leite, de vaca, integral, pó",
+    "similarity": 0.7143
+  },
+  "MACARRAO COM LINGUICA": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.6667
+  },
+  "BOLO CUCA": {
+    "taco_food_id": "TACO_17",
+    "taco_food_name": "Bolo, pronto, coco",
+    "similarity": 0.5
+  },
+  "MORANGA": {
+    "taco_food_id": "TACO_67",
+    "taco_food_name": "Abóbora, moranga, crua",
+    "similarity": 1.0
+  },
+  "PAO TRIGO BINSAGUINHA": {
+    "taco_food_id": "TACO_53",
+    "taco_food_name": "Pão, trigo, francês",
+    "similarity": 0.6667
+  },
+  "BISCOITO RECHEADO TORTINHA ADRIA MORANGO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.6
+  },
+  "ACAI POLPA COM XAROPE DE GUARANA E GLUCOSE": {
+    "taco_food_id": "TACO_167",
+    "taco_food_name": "Açaí, polpa, com xarope de guaraná e glucose",
+    "similarity": 1.0
+  },
+  "SUCO CONCENTRADO MAGUARY CAJU": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.75
+  },
+  "PEQUI": {
+    "taco_food_id": "TACO_241",
+    "taco_food_name": "Pequi, cru",
+    "similarity": 1.0
+  },
+  "BATATA FRITA BURGER KING": {
+    "taco_food_id": "TACO_93",
+    "taco_food_name": "Batata, inglesa, frita",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR TIAL UVA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "MACARRAO CREMOSO": {
+    "taco_food_id": "TACO_40",
+    "taco_food_name": "Macarrão, trigo, cru",
+    "similarity": 0.5
+  },
+  "CEREAL MATINAL SNOW FLAKES": {
+    "taco_food_id": "TACO_25",
+    "taco_food_name": "Cereal matinal, milho",
+    "similarity": 0.5
+  },
+  "ACUCAR MASCAVO": {
+    "taco_food_id": "TACO_26",
+    "taco_food_name": "Cereal matinal, milho, açúcar",
+    "similarity": 0.5
+  },
+  "LINHACA SEMENTE": {
+    "taco_food_id": "TACO_594",
+    "taco_food_name": "Linhaça, semente",
+    "similarity": 1.0
+  },
+  "LEITE DE COCO": {
+    "taco_food_id": "TACO_447",
+    "taco_food_name": "Creme de Leite",
+    "similarity": 0.6667
+  },
+  "PAO DE MILHO": {
+    "taco_food_id": "TACO_51",
+    "taco_food_name": "Pão, milho, forma",
+    "similarity": 0.6667
+  },
+  "LEITE FERMENTADO ELEGE MORANGO": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.5
+  },
+  "OLEO DE LINHACA": {
+    "taco_food_id": "TACO_270",
+    "taco_food_name": "Óleo, de milho",
+    "similarity": 0.6667
+  },
+  "LEGUMES GRATINADOS": {
+    "taco_food_id": "TACO_154",
+    "taco_food_name": "Seleta de legumes, enlatada",
+    "similarity": 0.5
+  },
+  "ROSCA DOCE": {
+    "taco_food_id": "TACO_34",
+    "taco_food_name": "Farinha, de rosca",
+    "similarity": 0.5
+  },
+  "ARROZ DOCE": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.5
+  },
+  "ACELGA": {
+    "taco_food_id": "TACO_74",
+    "taco_food_name": "Acelga, crua",
+    "similarity": 1.0
+  },
+  "CEREAL MATINAL SUCRILHOS KELLOGGS": {
+    "taco_food_id": "TACO_25",
+    "taco_food_name": "Cereal matinal, milho",
+    "similarity": 0.5
+  },
+  "FEIJAO ROSINHA": {
+    "taco_food_id": "TACO_572",
+    "taco_food_name": "Feijão, rosinha, cru",
+    "similarity": 1.0
+  },
+  "BISTECA DE PORCO": {
+    "taco_food_id": "TACO_427",
+    "taco_food_name": "Porco, bisteca, crua",
+    "similarity": 0.6667
+  },
+  "OLEO DE COCO": {
+    "taco_food_id": "TACO_270",
+    "taco_food_name": "Óleo, de milho",
+    "similarity": 0.6667
+  },
+  "QUEIJO DE COALHO": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.6667
+  },
+  "MACARRAO INSTANTANEO MAGGI GALINHA": {
+    "taco_food_id": "TACO_39",
+    "taco_food_name": "Macarrão, instantâneo",
+    "similarity": 0.5
+  },
+  "BEBIDA LACTEA": {
+    "taco_food_id": "TACO_446",
+    "taco_food_name": "Bebida láctea, pêssego",
+    "similarity": 1.0
+  },
+  "BANANA CATURRA": {
+    "taco_food_id": "TACO_176",
+    "taco_food_name": "Banana, doce em barra",
+    "similarity": 0.5
+  },
+  "PALMITO EM CONSERVA": {
+    "taco_food_id": "TACO_138",
+    "taco_food_name": "Palmito, juçara, em conserva",
+    "similarity": 1.0
+  },
+  "PAO DE FORMA INTEGRAL NAO ESPECIFICADO": {
+    "taco_food_id": "TACO_52",
+    "taco_food_name": "Pão, trigo, forma, integral",
+    "similarity": 0.5
+  },
+  "PAO ALEMAO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "CARNE DE PORCO COM LEGUMES": {
+    "taco_food_id": "TACO_334",
+    "taco_food_name": "Carne, bovina, capa de contra-filé, com gordura, crua",
+    "similarity": 0.6
+  },
+  "BANANA MACA IN NATURA": {
+    "taco_food_id": "TACO_178",
+    "taco_food_name": "Banana, maçã, crua",
+    "similarity": 0.5
+  },
+  "PAO DE ALHO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "BISCOITO SALGADO INTEGRAL": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.6667
+  },
+  "MACARRAO COM MOLHO BRANCO": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.5
+  },
+  "GRAO DE BICO": {
+    "taco_food_id": "TACO_575",
+    "taco_food_name": "Grão-de-bico, cru",
+    "similarity": 1.0
+  },
+  "LEITE FERMENTADO ACTIMEL MORANGO": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.5
+  },
+  "OVO GEMA": {
+    "taco_food_id": "TACO_487",
+    "taco_food_name": "Ovo, de galinha, gema, cozida/10minutos",
+    "similarity": 1.0
+  },
+  "FRANGO COM AIPIM": {
+    "taco_food_id": "TACO_392",
+    "taco_food_name": "Frango, caipira, inteiro, com pele, cozido",
+    "similarity": 0.6667
+  },
+  "ACAI POLPA COM XAROPE DE GUARANA COM CUPUACU POLPA": {
+    "taco_food_id": "TACO_167",
+    "taco_food_name": "Açaí, polpa, com xarope de guaraná e glucose",
+    "similarity": 0.8571
+  },
+  "PAO DE BATATA": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "PASTEL DE QUEIJO": {
+    "taco_food_id": "TACO_57",
+    "taco_food_name": "Pastel, de queijo, cru",
+    "similarity": 1.0
+  },
+  "COSTELA DE PORCO": {
+    "taco_food_id": "TACO_431",
+    "taco_food_name": "Porco, costela, crua",
+    "similarity": 0.6667
+  },
+  "CARNE BOVINA EM CONSERVA": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 0.5
+  },
+  "BEBIDA ACHOCOLATADA": {
+    "taco_food_id": "TACO_446",
+    "taco_food_name": "Bebida láctea, pêssego",
+    "similarity": 0.5
+  },
+  "BUCHO": {
+    "taco_food_id": "TACO_333",
+    "taco_food_name": "Carne, bovina, bucho, cru",
+    "similarity": 1.0
+  },
+  "BOLO DE AIPIM": {
+    "taco_food_id": "TACO_15",
+    "taco_food_name": "Bolo, pronto, aipim",
+    "similarity": 0.6667
+  },
+  "BISCOITO RECHEADO TORTINHA ADRIA CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.6
+  },
+  "MAXIXE": {
+    "taco_food_id": "TACO_134",
+    "taco_food_name": "Maxixe, cru",
+    "similarity": 1.0
+  },
+  "IOGURTE QUALQUER SABOR LIGHT": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.5
+  },
+  "OVO DE PASCOA": {
+    "taco_food_id": "TACO_489",
+    "taco_food_name": "Ovo, de galinha, inteiro, cru",
+    "similarity": 0.6667
+  },
+  "BISCOITO RECHEADO PASSATEMPO CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.75
+  },
+  "FARINHA DE TAPIOCA": {
+    "taco_food_id": "TACO_121",
+    "taco_food_name": "Farinha, de mandioca, crua",
+    "similarity": 0.6667
+  },
+  "MANTEIGA COM OU SEM SAL LIGHT": {
+    "taco_food_id": "TACO_262",
+    "taco_food_name": "Manteiga, sem sal",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO TRAKINAS MEIO A MEIO CHOCOLATE COM MORANGO": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.5
+  },
+  "PAO DE CACHORRO QUENTE": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.5
+  },
+  "CARANGUEJO": {
+    "taco_food_id": "TACO_287",
+    "taco_food_name": "Caranguejo, cozido",
+    "similarity": 1.0
+  },
+  "BISCOITO CREAM CRACKER ADRIA": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.75
+  },
+  "MANDIOCA (AIPIM MACAXEIRA) FECULA": {
+    "taco_food_id": "TACO_124",
+    "taco_food_name": "Fécula, de mandioca",
+    "similarity": 0.5
+  },
+  "BISCOITO CREAM CRACKER MABEL": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.75
+  },
+  "MASSA ARROZ": {
+    "taco_food_id": "TACO_59",
+    "taco_food_name": "Pastel, massa, crua",
+    "similarity": 0.5
+  },
+  "LEITE DE VACA UHT INTEGRAL ITALAC": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 0.6667
+  },
+  "BISTECA SUINA": {
+    "taco_food_id": "TACO_427",
+    "taco_food_name": "Porco, bisteca, crua",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR SUFRESH UVA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "CREME DE MILHO": {
+    "taco_food_id": "TACO_28",
+    "taco_food_name": "Creme de milho, pó",
+    "similarity": 1.0
+  },
+  "BISCOITO RECHEADO PASSATEMPO MORANGO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.75
+  },
+  "SUCO CONCENTRADO JANDAIA MARACUJA": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.75
+  },
+  "BISCOITO CREAM CRACKER VITARELLA": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.75
+  },
+  "BISCOITO CREAM CRACKER MARILAN": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.75
+  },
+  "BISCOITO CREAM CRACKER PIRAQUE INTEGRAL": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.6
+  },
+  "REQUEIJAO ITAMBE": {
+    "taco_food_id": "TACO_468",
+    "taco_food_name": "Queijo, requeijão, cremoso",
+    "similarity": 0.5
+  },
+  "PAO SEM GLUTEN": {
+    "taco_food_id": "TACO_50",
+    "taco_food_name": "Pão, glúten, forma",
+    "similarity": 0.6667
+  },
+  "ERVILHA EM GRAO CONGELADA": {
+    "taco_food_id": "TACO_559",
+    "taco_food_name": "Ervilha, em vagem",
+    "similarity": 0.5
+  },
+  "BARRA DE CEREAIS DOCE": {
+    "taco_food_id": "TACO_176",
+    "taco_food_name": "Banana, doce em barra",
+    "similarity": 0.5
+  },
+  "CREME DE ABOBORA": {
+    "taco_food_id": "TACO_447",
+    "taco_food_name": "Creme de Leite",
+    "similarity": 0.6667
+  },
+  "PINHAO": {
+    "taco_food_id": "TACO_595",
+    "taco_food_name": "Pinhão, cozido",
+    "similarity": 1.0
+  },
+  "CORACAO DE GALINHA OU DE FRANGO": {
+    "taco_food_id": "TACO_394",
+    "taco_food_name": "Frango, coração, cru",
+    "similarity": 0.7162
+  },
+  "MACARRAO COM SARDINHA EM CONSERVA": {
+    "taco_food_id": "TACO_319",
+    "taco_food_name": "Sardinha, conserva em óleo",
+    "similarity": 0.7637
+  },
+  "SUCO NECTAR DAFRUTA CAJU": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "CARNE SECA COM LEGUMES": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 0.5
+  },
+  "MACARRAO COM QUEIJO": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.6667
+  },
+  "BATATA PALITO": {
+    "taco_food_id": "TACO_89",
+    "taco_food_name": "Batata, doce, crua",
+    "similarity": 0.5
+  },
+  "HAMBURGUER MCDONALDS": {
+    "taco_food_id": "TACO_415",
+    "taco_food_name": "Hambúrguer, bovino, cru",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR KAPO MARACUJA": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR SUFRESH MARACUJA": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "REQUEIJAO VIGOR": {
+    "taco_food_id": "TACO_468",
+    "taco_food_name": "Queijo, requeijão, cremoso",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR SUFRESH LARANJA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "ARROZ CAIPIRA": {
+    "taco_food_id": "TACO_4",
+    "taco_food_name": "Arroz, tipo 1, cru",
+    "similarity": 0.5
+  },
+  "MACARRAO COM SARDINHA FRESCO": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.5
+  },
+  "CAMARAO": {
+    "taco_food_id": "TACO_285",
+    "taco_food_name": "Camarão, Rio Grande, grande, cru",
+    "similarity": 1.0
+  },
+  "CORACAO BOVINO": {
+    "taco_food_id": "TACO_394",
+    "taco_food_name": "Frango, coração, cru",
+    "similarity": 0.5
+  },
+  "AMENDOIM CRU": {
+    "taco_food_id": "TACO_557",
+    "taco_food_name": "Amendoim, grão, cru",
+    "similarity": 1.0
+  },
+  "CARAMBOLA": {
+    "taco_food_id": "TACO_190",
+    "taco_food_name": "Carambola, crua",
+    "similarity": 1.0
+  },
+  "CARNE DE OUTROS ANIMAIS": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.5
+  },
+  "FEIJAO VERDE": {
+    "taco_food_id": "TACO_568",
+    "taco_food_name": "Feijão, preto, cru",
+    "similarity": 0.5
+  },
+  "PAMONHA": {
+    "taco_food_id": "TACO_47",
+    "taco_food_name": "Pamonha, barra para cozimento, pré-cozida",
+    "similarity": 1.0
+  },
+  "QUEIJO PRATO": {
+    "taco_food_id": "TACO_467",
+    "taco_food_name": "Queijo, prato",
+    "similarity": 1.0
+  },
+  "ACEROLA": {
+    "taco_food_id": "TACO_169",
+    "taco_food_name": "Acerola, crua",
+    "similarity": 1.0
+  },
+  "KIWI": {
+    "taco_food_id": "TACO_207",
+    "taco_food_name": "Kiwi, cru",
+    "similarity": 1.0
+  },
+  "SOPA DE MANDIOCA": {
+    "taco_food_id": "TACO_130",
+    "taco_food_name": "Mandioca, crua",
+    "similarity": 0.7161
+  },
+  "AMENDOIM MOIDO": {
+    "taco_food_id": "TACO_557",
+    "taco_food_name": "Amendoim, grão, cru",
+    "similarity": 0.5
+  },
+  "PERNIL DE PORCO": {
+    "taco_food_id": "TACO_436",
+    "taco_food_name": "Porco, pernil, cru",
+    "similarity": 0.6667
+  },
+  "SARDINHA EM CONSERVA DE OLEO": {
+    "taco_food_id": "TACO_319",
+    "taco_food_name": "Sardinha, conserva em óleo",
+    "similarity": 0.8
+  },
+  "PITANGA": {
+    "taco_food_id": "TACO_247",
+    "taco_food_name": "Pitanga, crua",
+    "similarity": 1.0
+  },
+  "BOLO DE MANDIOCA": {
+    "taco_food_id": "TACO_130",
+    "taco_food_name": "Mandioca, crua",
+    "similarity": 0.7281
+  },
+  "MUSCULO BOVINO": {
+    "taco_food_id": "TACO_372",
+    "taco_food_name": "Carne, bovina, músculo, sem gordura, cru",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR KAPO LARANJA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "CARA": {
+    "taco_food_id": "TACO_103",
+    "taco_food_name": "Cará, cru",
+    "similarity": 1.0
+  },
+  "CALDO DE BATATA BAROA": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.5
+  },
+  "FRANGO COM BATATA BAROA": {
+    "taco_food_id": "TACO_391",
+    "taco_food_name": "Frango, asa, com pele, crua",
+    "similarity": 0.5
+  },
+  "SUCO CONCENTRADO IMBIARA MARACUJA": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.75
+  },
+  "SUCO CONCENTRADO IMBIARA MANGA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "VAGEM": {
+    "taco_food_id": "TACO_162",
+    "taco_food_name": "Vagem, crua",
+    "similarity": 1.0
+  },
+  "PALMITO FRESCO": {
+    "taco_food_id": "TACO_138",
+    "taco_food_name": "Palmito, juçara, em conserva",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO ADRIA MOUSSE DE CHOCOLATE AO LEITE": {
+    "taco_food_id": "TACO_11",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de chocolate",
+    "similarity": 0.5
+  },
+  "BISCOITO WAFER MAXI BAUDUCCO CHOCOLATE": {
+    "taco_food_id": "TACO_11",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de chocolate",
+    "similarity": 0.6
+  },
+  "ERVILHA EM CONSERVA": {
+    "taco_food_id": "TACO_559",
+    "taco_food_name": "Ervilha, em vagem",
+    "similarity": 0.6667
+  },
+  "ERVILHA EM GRAO": {
+    "taco_food_id": "TACO_559",
+    "taco_food_name": "Ervilha, em vagem",
+    "similarity": 0.6667
+  },
+  "CALDO DE MANDIOCA": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.6667
+  },
+  "RUCULA": {
+    "taco_food_id": "TACO_152",
+    "taco_food_name": "Rúcula, crua",
+    "similarity": 1.0
+  },
+  "BISCOITO CREAM CRACKER AMANTEIGADO RICHESTER": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.6
+  },
+  "SUCO NECTAR TIAL LARANJA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "ARROZ PIAMONTESE": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.5
+  },
+  "CALDO DE CANA": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.6667
+  },
+  "AMENDOA": {
+    "taco_food_id": "TACO_587",
+    "taco_food_name": "Amêndoa, torrada, salgada",
+    "similarity": 1.0
+  },
+  "MACARRAO INSTANTANEO RICHESTER CARNE": {
+    "taco_food_id": "TACO_39",
+    "taco_food_name": "Macarrão, instantâneo",
+    "similarity": 0.5
+  },
+  "ARROZ DE COUVE": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.6667
+  },
+  "OVO DE CODORNA": {
+    "taco_food_id": "TACO_485",
+    "taco_food_name": "Ovo, de codorna, inteiro, cru",
+    "similarity": 1.0
+  },
+  "PETIT SUISSE PAULISTA MORANGO": {
+    "taco_food_id": "TACO_466",
+    "taco_food_name": "Queijo, petit suisse, morango",
+    "similarity": 0.75
+  },
+  "BISCOITO WAFER MIRABEL CHOCOLATE": {
+    "taco_food_id": "TACO_11",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de chocolate",
+    "similarity": 0.75
+  },
+  "ESPINAFRE": {
+    "taco_food_id": "TACO_119",
+    "taco_food_name": "Espinafre, Nova Zelândia, cru",
+    "similarity": 1.0
+  },
+  "QUEIJO POLENGUINHO": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.5
+  },
+  "ALCATRA BOVINA": {
+    "taco_food_id": "TACO_369",
+    "taco_food_name": "Carne, bovina, miolo de alcatra, sem gordura, cru",
+    "similarity": 1.0
+  },
+  "FAROFA MOLHADA": {
+    "taco_food_id": "TACO_131",
+    "taco_food_name": "Mandioca, farofa, temperada",
+    "similarity": 0.5
+  },
+  "MOSTARDA MOLHO": {
+    "taco_food_id": "TACO_135",
+    "taco_food_name": "Mostarda, folha, crua",
+    "similarity": 0.5
+  },
+  "REQUEIJAO ELEGE": {
+    "taco_food_id": "TACO_468",
+    "taco_food_name": "Queijo, requeijão, cremoso",
+    "similarity": 0.5
+  },
+  "LEITE FERMENTADO BATAVO": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.6667
+  },
+  "BISCOITO CREAM CRACKER PIRAQUE": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.75
+  },
+  "CALDO DE INHAME": {
+    "taco_food_id": "TACO_325",
+    "taco_food_name": "Caldo de galinha, tablete",
+    "similarity": 0.6667
+  },
+  "LOMBO": {
+    "taco_food_id": "TACO_433",
+    "taco_food_name": "Porco, lombo, cru",
+    "similarity": 1.0
+  },
+  "DOCE DE BANANA EM PASTA": {
+    "taco_food_id": "TACO_176",
+    "taco_food_name": "Banana, doce em barra",
+    "similarity": 0.6
+  },
+  "BERINJELA": {
+    "taco_food_id": "TACO_96",
+    "taco_food_name": "Berinjela, crua",
+    "similarity": 1.0
+  },
+  "JABUTICABA": {
+    "taco_food_id": "TACO_203",
+    "taco_food_name": "Jabuticaba, crua",
+    "similarity": 1.0
+  },
+  "CARNE DE SOJA": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.6667
+  },
+  "ARROZ COM BROCOLIS": {
+    "taco_food_id": "TACO_101",
+    "taco_food_name": "Brócolis, cru",
+    "similarity": 0.7698
+  },
+  "FARINHA DE MILHO": {
+    "taco_food_id": "TACO_33",
+    "taco_food_name": "Farinha, de milho, amarela",
+    "similarity": 1.0
+  },
+  "MACARRAO COM ATUM FRESCO": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.5
+  },
+  "LEITE DE VACA EM PO COM SABOR": {
+    "taco_food_id": "TACO_459",
+    "taco_food_name": "Leite, de vaca, integral, pó",
+    "similarity": 0.5714
+  },
+  "SUCO NECTAR MAGUARY LARANJA": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "CHOCOLATE KINDER": {
+    "taco_food_id": "TACO_189",
+    "taco_food_name": "Caqui, chocolate, cru",
+    "similarity": 0.5
+  },
+  "OMELETE COM QUEIJO E PRESUNTO": {
+    "taco_food_id": "TACO_484",
+    "taco_food_name": "Omelete, de queijo",
+    "similarity": 0.7587
+  },
+  "IOGURTE DESNATADO": {
+    "taco_food_id": "TACO_449",
+    "taco_food_name": "Iogurte, natural, desnatado",
+    "similarity": 1.0
+  },
+  "COCO VERDE": {
+    "taco_food_id": "TACO_591",
+    "taco_food_name": "Coco,  verde, cru",
+    "similarity": 1.0
+  },
+  "CUPUACU": {
+    "taco_food_id": "TACO_192",
+    "taco_food_name": "Cupuaçu, cru",
+    "similarity": 1.0
+  },
+  "ATUM EM CONSERVA DE OLEO": {
+    "taco_food_id": "TACO_277",
+    "taco_food_name": "Atum, conserva em óleo",
+    "similarity": 0.8
+  },
+  "BISCOITO WAFER MINUETO CHOCOLATE": {
+    "taco_food_id": "TACO_11",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de chocolate",
+    "similarity": 0.75
+  },
+  "LEITE DE VACA EM PO": {
+    "taco_food_id": "TACO_459",
+    "taco_food_name": "Leite, de vaca, integral, pó",
+    "similarity": 0.8
+  },
+  "LINGUA DE PORCO": {
+    "taco_food_id": "TACO_421",
+    "taco_food_name": "Lingüiça, porco, crua",
+    "similarity": 0.7007
+  },
+  "SUCO NECTAR TIAL CAJU": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "BISCOITO SALGADO NESFIT INTEGRAL": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.5
+  },
+  "PAMONHA DOCE": {
+    "taco_food_id": "TACO_47",
+    "taco_food_name": "Pamonha, barra para cozimento, pré-cozida",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO NESTLE NEGRESCO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.5
+  },
+  "LEITE DE VACA UHT SEMIDESNATADO": {
+    "taco_food_id": "TACO_457",
+    "taco_food_name": "Leite, de vaca, desnatado, UHT",
+    "similarity": 0.8
+  },
+  "BISCOITO WAFER PIRAQUE CHOCOLATE": {
+    "taco_food_id": "TACO_11",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de chocolate",
+    "similarity": 0.75
+  },
+  "CANJICA": {
+    "taco_food_id": "TACO_19",
+    "taco_food_name": "Canjica, branca, crua",
+    "similarity": 1.0
+  },
+  "UVA PASSA": {
+    "taco_food_id": "TACO_256",
+    "taco_food_name": "Uva, Itália, crua",
+    "similarity": 0.5
+  },
+  "MAMINHA BOVINA": {
+    "taco_food_id": "TACO_367",
+    "taco_food_name": "Carne, bovina, maminha, crua",
+    "similarity": 1.0
+  },
+  "CARNE COM BATATA BAROA": {
+    "taco_food_id": "TACO_373",
+    "taco_food_name": "Carne, bovina, paleta, com gordura, crua",
+    "similarity": 0.5
+  },
+  "PAO DE SAL INTEGRAL": {
+    "taco_food_id": "TACO_52",
+    "taco_food_name": "Pão, trigo, forma, integral",
+    "similarity": 0.5
+  },
+  "PAO CASEIRO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "CAJA": {
+    "taco_food_id": "TACO_184",
+    "taco_food_name": "Cajá-Manga, cru",
+    "similarity": 1.0
+  },
+  "CALDO DE MANDIOQUINHA": {
+    "taco_food_id": "TACO_325",
+    "taco_food_name": "Caldo de galinha, tablete",
+    "similarity": 0.6667
+  },
+  "BISCOITO RECHEADO NIKITO CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.75
+  },
+  "MACARRAO INSTANTANEO MAGGI CARNE": {
+    "taco_food_id": "TACO_39",
+    "taco_food_name": "Macarrão, instantâneo",
+    "similarity": 0.5
+  },
+  "QUEIJO DE MINAS LIGHT": {
+    "taco_food_id": "TACO_461",
+    "taco_food_name": "Queijo, minas, frescal",
+    "similarity": 0.5
+  },
+  "CROQUETE": {
+    "taco_food_id": "TACO_387",
+    "taco_food_name": "Croquete, de carne, cru",
+    "similarity": 1.0
+  },
+  "TORRADA DOCE": {
+    "taco_food_id": "TACO_63",
+    "taco_food_name": "Torrada, pão francês",
+    "similarity": 0.5
+  },
+  "CURAU DE MILHO": {
+    "taco_food_id": "TACO_29",
+    "taco_food_name": "Curau, milho verde",
+    "similarity": 0.6667
+  },
+  "SOBRECOXA": {
+    "taco_food_id": "TACO_412",
+    "taco_food_name": "Frango, sobrecoxa, com pele, crua",
+    "similarity": 1.0
+  },
+  "PAO INTEGRAL LIGHT": {
+    "taco_food_id": "TACO_52",
+    "taco_food_name": "Pão, trigo, forma, integral",
+    "similarity": 0.6667
+  },
+  "CEBOLA ROXA": {
+    "taco_food_id": "TACO_107",
+    "taco_food_name": "Cebola, crua",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO ADRIA MOUSSE DE MORANGO": {
+    "taco_food_id": "TACO_12",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de morango",
+    "similarity": 0.6667
+  },
+  "BISCOITO RECHEADO PIRAQUE ABACAXI": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.5
+  },
+  "COCO SECO": {
+    "taco_food_id": "TACO_590",
+    "taco_food_name": "Coco, cru",
+    "similarity": 0.5
+  },
+  "BISCOITO SALGADO PIRAQUE PRESUNTINHO": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.5
+  },
+  "ARROZ DE FORNO": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.6667
+  },
+  "HAMBURGUER DE FRANGO": {
+    "taco_food_id": "TACO_415",
+    "taco_food_name": "Hambúrguer, bovino, cru",
+    "similarity": 0.7294
+  },
+  "BANANA FLAMBADA": {
+    "taco_food_id": "TACO_178",
+    "taco_food_name": "Banana, maçã, crua",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR MAGUARY MARACUJA": {
+    "taco_food_id": "TACO_234",
+    "taco_food_name": "Maracujá, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "SARDINHA EM CONSERVA DE AGUA": {
+    "taco_food_id": "TACO_319",
+    "taco_food_name": "Sardinha, conserva em óleo",
+    "similarity": 0.6
+  },
+  "CAJA MANGA": {
+    "taco_food_id": "TACO_184",
+    "taco_food_name": "Cajá-Manga, cru",
+    "similarity": 1.0
+  },
+  "QUEIJO MUZARELLA": {
+    "taco_food_id": "TACO_463",
+    "taco_food_name": "Queijo, mozarela",
+    "similarity": 0.5
+  },
+  "COSTELA": {
+    "taco_food_id": "TACO_431",
+    "taco_food_name": "Porco, costela, crua",
+    "similarity": 1.0
+  },
+  "IOGURTE INTEGRAL MORANGO": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.6667
+  },
+  "MINGAU DE FARINHA DE MANDIOCA": {
+    "taco_food_id": "TACO_121",
+    "taco_food_name": "Farinha, de mandioca, crua",
+    "similarity": 0.7702
+  },
+  "CEREAL MATINAL DE MILHO EM FLOCOS": {
+    "taco_food_id": "TACO_25",
+    "taco_food_name": "Cereal matinal, milho",
+    "similarity": 0.5
+  },
+  "ALMEIRAO": {
+    "taco_food_id": "TACO_84",
+    "taco_food_name": "Almeirão, cru",
+    "similarity": 1.0
+  },
+  "CARNE SECA COM ABOBORA": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO PIRAQUE CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.75
+  },
+  "REQUEIJAO LIGHT": {
+    "taco_food_id": "TACO_468",
+    "taco_food_name": "Queijo, requeijão, cremoso",
+    "similarity": 0.5
+  },
+  "PASTEL ASSADO INTEGRAL DE QUEIJO": {
+    "taco_food_id": "TACO_57",
+    "taco_food_name": "Pastel, de queijo, cru",
+    "similarity": 0.6
+  },
+  "PICANHA BOVINA": {
+    "taco_food_id": "TACO_380",
+    "taco_food_name": "Carne, bovina, picanha, com gordura, crua",
+    "similarity": 1.0
+  },
+  "MACARRAO COM PEIXE FRESCO": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.5
+  },
+  "PAO AUSTRALIANO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "MOSTARDA VERDURA": {
+    "taco_food_id": "TACO_135",
+    "taco_food_name": "Mostarda, folha, crua",
+    "similarity": 0.5
+  },
+  "FEIJAO ROXO": {
+    "taco_food_id": "TACO_574",
+    "taco_food_name": "Feijão, roxo, cru",
+    "similarity": 1.0
+  },
+  "BANANA OURO": {
+    "taco_food_id": "TACO_180",
+    "taco_food_name": "Banana, ouro, crua",
+    "similarity": 1.0
+  },
+  "FARINHA DE UARINI": {
+    "taco_food_id": "TACO_35",
+    "taco_food_name": "Farinha, de trigo",
+    "similarity": 0.6667
+  },
+  "CREME DE ESPINAFRE": {
+    "taco_food_id": "TACO_447",
+    "taco_food_name": "Creme de Leite",
+    "similarity": 0.6667
+  },
+  "EMPADA DE CARNE": {
+    "taco_food_id": "TACO_390",
+    "taco_food_name": "Empada, de frango, pré-cozida",
+    "similarity": 0.6667
+  },
+  "TUCUMA": {
+    "taco_food_id": "TACO_253",
+    "taco_food_name": "Tucumã, cru",
+    "similarity": 1.0
+  },
+  "PUPUNHA": {
+    "taco_food_id": "TACO_596",
+    "taco_food_name": "Pupunha, cozida",
+    "similarity": 1.0
+  },
+  "SOJA GRAO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "CALDO DE TOMATE": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA INTEGRAL SEM LACTOSE": {
+    "taco_food_id": "TACO_458",
+    "taco_food_name": "Leite, de vaca, integral",
+    "similarity": 0.6667
+  },
+  "TORRADA CENTEIO": {
+    "taco_food_id": "TACO_63",
+    "taco_food_name": "Torrada, pão francês",
+    "similarity": 0.5
+  },
+  "AMENDOIM AMANTEIGADO": {
+    "taco_food_id": "TACO_557",
+    "taco_food_name": "Amendoim, grão, cru",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO RICHESTER ESCURETO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.5
+  },
+  "PIMENTAO": {
+    "taco_food_id": "TACO_144",
+    "taco_food_name": "Pimentão, verde, cru",
+    "similarity": 1.0
+  },
+  "QUIBE ASSADO": {
+    "taco_food_id": "TACO_440",
+    "taco_food_name": "Quibe, assado",
+    "similarity": 1.0
+  },
+  "ERVILHA EM VAGEM": {
+    "taco_food_id": "TACO_559",
+    "taco_food_name": "Ervilha, em vagem",
+    "similarity": 1.0
+  },
+  "XAROPE DE GUARANA NAO ESPECIFICADO": {
+    "taco_food_id": "TACO_167",
+    "taco_food_name": "Açaí, polpa, com xarope de guaraná e glucose",
+    "similarity": 0.6
+  },
+  "CARNE SECA COM MANDIOCA": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 0.5
+  },
+  "BATATA SALSA": {
+    "taco_food_id": "TACO_89",
+    "taco_food_name": "Batata, doce, crua",
+    "similarity": 0.5
+  },
+  "MORTADELA LIGHT": {
+    "taco_food_id": "TACO_424",
+    "taco_food_name": "Mortadela",
+    "similarity": 0.5
+  },
+  "ROSCA SALGADA": {
+    "taco_food_id": "TACO_34",
+    "taco_food_name": "Farinha, de rosca",
+    "similarity": 0.5
+  },
+  "LINGUICA PORCO GRELHADA": {
+    "taco_food_id": "TACO_423",
+    "taco_food_name": "Lingüiça, porco, grelhada",
+    "similarity": 1.0
+  },
+  "LOMBO DE PORCO": {
+    "taco_food_id": "TACO_433",
+    "taco_food_name": "Porco, lombo, cru",
+    "similarity": 0.6667
+  },
+  "SUCO NECTAR SUFRESH CAJU": {
+    "taco_food_id": "TACO_188",
+    "taco_food_name": "Caju, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "JAMELAO": {
+    "taco_food_id": "TACO_206",
+    "taco_food_name": "Jamelão, cru",
+    "similarity": 1.0
+  },
+  "PAO DE LO": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.6667
+  },
+  "PAO FRANCES INTEGRAL": {
+    "taco_food_id": "TACO_53",
+    "taco_food_name": "Pão, trigo, francês",
+    "similarity": 0.6667
+  },
+  "SUCO DETOX": {
+    "taco_food_id": "TACO_215",
+    "taco_food_name": "Laranja, pêra, suco",
+    "similarity": 0.5
+  },
+  "PERNIL SUINO": {
+    "taco_food_id": "TACO_436",
+    "taco_food_name": "Porco, pernil, cru",
+    "similarity": 0.5
+  },
+  "CASTANHA DO PARA": {
+    "taco_food_id": "TACO_589",
+    "taco_food_name": "Castanha-do-Brasil, crua",
+    "similarity": 0.6667
+  },
+  "CARNE RECHEADA COM LINGUICA": {
+    "taco_food_id": "TACO_381",
+    "taco_food_name": "Carne, bovina, picanha, com gordura, grelhada",
+    "similarity": 0.5
+  },
+  "PAO ARABE INTEGRAL": {
+    "taco_food_id": "TACO_52",
+    "taco_food_name": "Pão, trigo, forma, integral",
+    "similarity": 0.6667
+  },
+  "LEITE DE CABRA EM PO": {
+    "taco_food_id": "TACO_454",
+    "taco_food_name": "Leite, de cabra",
+    "similarity": 0.6
+  },
+  "BISCOITO RECHEADO GULOSOS BAUDUCCO CHOCOLATE": {
+    "taco_food_id": "TACO_9",
+    "taco_food_name": "Biscoito, doce, recheado com chocolate",
+    "similarity": 0.6
+  },
+  "LEITE FERMENTADO PAULISTA": {
+    "taco_food_id": "TACO_460",
+    "taco_food_name": "Leite, fermentado",
+    "similarity": 0.6667
+  },
+  "QUIBE": {
+    "taco_food_id": "TACO_441",
+    "taco_food_name": "Quibe, cru",
+    "similarity": 1.0
+  },
+  "CACAU FRUTA": {
+    "taco_food_id": "TACO_183",
+    "taco_food_name": "Cacau, cru",
+    "similarity": 0.5
+  },
+  "SUCO NECTAR CHAMYTO UVA": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "BANANA NANICA IN NATURA": {
+    "taco_food_id": "TACO_179",
+    "taco_food_name": "Banana, nanica, crua",
+    "similarity": 0.5
+  },
+  "QUEIJO CANASTRA": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.5
+  },
+  "QUEIJO DE MANTEIGA": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.6667
+  },
+  "SALADA CAESER": {
+    "taco_food_id": "TACO_161",
+    "taco_food_name": "Tomate, salada",
+    "similarity": 0.5
+  },
+  "BISCOITO RECHEADO PIRAQUE GOIABINHA": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.5
+  },
+  "PAO ARABE": {
+    "taco_food_id": "TACO_49",
+    "taco_food_name": "Pão, de soja",
+    "similarity": 0.5
+  },
+  "BISCOITO DE ARROZ": {
+    "taco_food_id": "TACO_12",
+    "taco_food_name": "Biscoito, doce, wafer, recheado de morango",
+    "similarity": 0.6667
+  },
+  "LEITE DE VACA UHT DESNATADO ITALAC": {
+    "taco_food_id": "TACO_457",
+    "taco_food_name": "Leite, de vaca, desnatado, UHT",
+    "similarity": 0.8333
+  },
+  "BISCOITO DOCE CASEIRO": {
+    "taco_food_id": "TACO_8",
+    "taco_food_name": "Biscoito, doce, maisena",
+    "similarity": 0.6667
+  },
+  "TAIOBA": {
+    "taco_food_id": "TACO_156",
+    "taco_food_name": "Taioba, crua",
+    "similarity": 1.0
+  },
+  "BISCOITO RECHEADO PIRAQUE LIMAO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.5
+  },
+  "COUVE CHINESA": {
+    "taco_food_id": "TACO_117",
+    "taco_food_name": "Couve-flor, crua",
+    "similarity": 0.5
+  },
+  "PIPOCA LIGHT": {
+    "taco_food_id": "TACO_61",
+    "taco_food_name": "Pipoca, com óleo de soja, sem sal",
+    "similarity": 0.5
+  },
+  "PINHA": {
+    "taco_food_id": "TACO_246",
+    "taco_food_name": "Pinha, crua",
+    "similarity": 1.0
+  },
+  "JACA": {
+    "taco_food_id": "TACO_204",
+    "taco_food_name": "Jaca, crua",
+    "similarity": 1.0
+  },
+  "COSTELA SUINA": {
+    "taco_food_id": "TACO_348",
+    "taco_food_name": "Carne, bovina, costela, crua",
+    "similarity": 0.5
+  },
+  "MACARRAO COM CAMARAO": {
+    "taco_food_id": "TACO_41",
+    "taco_food_name": "Macarrão, trigo, cru, com ovos",
+    "similarity": 0.6667
+  },
+  "IOGURTE QUALQUER SABOR DIET": {
+    "taco_food_id": "TACO_451",
+    "taco_food_name": "Iogurte, sabor morango",
+    "similarity": 0.5
+  },
+  "NOZ PECAN": {
+    "taco_food_id": "TACO_597",
+    "taco_food_name": "Noz, crua",
+    "similarity": 0.5
+  },
+  "SALADA CEASER": {
+    "taco_food_id": "TACO_161",
+    "taco_food_name": "Tomate, salada",
+    "similarity": 0.5
+  },
+  "PASTA DE ATUM EM CONSERVA": {
+    "taco_food_id": "TACO_277",
+    "taco_food_name": "Atum, conserva em óleo",
+    "similarity": 0.7595
+  },
+  "DOCE DE MASSA FOLHADA": {
+    "taco_food_id": "TACO_295",
+    "taco_food_name": "Dourada de água doce, fresca",
+    "similarity": 0.5
+  },
+  "LEITE AROMATIZADO": {
+    "taco_food_id": "TACO_447",
+    "taco_food_name": "Creme de Leite",
+    "similarity": 0.5
+  },
+  "QUEIJO CREMOSO": {
+    "taco_food_id": "TACO_468",
+    "taco_food_name": "Queijo, requeijão, cremoso",
+    "similarity": 1.0
+  },
+  "BROCOLIS CONGELADO": {
+    "taco_food_id": "TACO_101",
+    "taco_food_name": "Brócolis, cru",
+    "similarity": 0.5
+  },
+  "BISCOITO DOCE LIGHT": {
+    "taco_food_id": "TACO_8",
+    "taco_food_name": "Biscoito, doce, maisena",
+    "similarity": 0.6667
+  },
+  "LEITE ACHOCOLATADO DIET": {
+    "taco_food_id": "TACO_455",
+    "taco_food_name": "Leite, de vaca, achocolatado",
+    "similarity": 0.6667
+  },
+  "BATATA ROSTI": {
+    "taco_food_id": "TACO_89",
+    "taco_food_name": "Batata, doce, crua",
+    "similarity": 0.5
+  },
+  "CARNE MARICA BOVINA": {
+    "taco_food_id": "TACO_385",
+    "taco_food_name": "Carne, bovina, seca, crua",
+    "similarity": 0.6667
+  },
+  "LEITE ACHOCOLATADO LIGHT": {
+    "taco_food_id": "TACO_455",
+    "taco_food_name": "Leite, de vaca, achocolatado",
+    "similarity": 0.6667
+  },
+  "QUEIJO PROVOLONE": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.5
+  },
+  "BISCOITO CREAM CRACKER RICHESTER GERGELIM": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.6
+  },
+  "PAO DE QUEIJO LIGHT": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.75
+  },
+  "LOMBO SUINO": {
+    "taco_food_id": "TACO_433",
+    "taco_food_name": "Porco, lombo, cru",
+    "similarity": 0.5
+  },
+  "CREME DE ARROZ FARINHA": {
+    "taco_food_id": "TACO_27",
+    "taco_food_name": "Creme de arroz, pó",
+    "similarity": 0.75
+  },
+  "PAO CIABATA": {
+    "taco_food_id": "TACO_196",
+    "taco_food_name": "Fruta-pão, crua",
+    "similarity": 0.5
+  },
+  "QUEIJO COLONIAL": {
+    "taco_food_id": "TACO_141",
+    "taco_food_name": "Pão, de queijo, cru",
+    "similarity": 0.5
+  },
+  "ATUM FRESCO": {
+    "taco_food_id": "TACO_278",
+    "taco_food_name": "Atum, fresco, cru",
+    "similarity": 1.0
+  },
+  "REQUEIJAO CASEIRO": {
+    "taco_food_id": "TACO_468",
+    "taco_food_name": "Queijo, requeijão, cremoso",
+    "similarity": 0.5
+  },
+  "QUEIJO RICOTA": {
+    "taco_food_id": "TACO_469",
+    "taco_food_name": "Queijo, ricota",
+    "similarity": 1.0
+  },
+  "MOLHO DE TOMATE POMAROLA": {
+    "taco_food_id": "TACO_159",
+    "taco_food_name": "Tomate, molho industrializado",
+    "similarity": 0.5
+  },
+  "PETIT SUISSE ELEGE MORANGO": {
+    "taco_food_id": "TACO_466",
+    "taco_food_name": "Queijo, petit suisse, morango",
+    "similarity": 0.75
+  },
+  "BOLO DE BATATA DOCE": {
+    "taco_food_id": "TACO_89",
+    "taco_food_name": "Batata, doce, crua",
+    "similarity": 0.7508
+  },
+  "PAO CENTEIO INTEGRAL": {
+    "taco_food_id": "TACO_52",
+    "taco_food_name": "Pão, trigo, forma, integral",
+    "similarity": 0.6667
+  },
+  "FRUTA CARAMELADA": {
+    "taco_food_id": "TACO_196",
+    "taco_food_name": "Fruta-pão, crua",
+    "similarity": 0.5
+  },
+  "SUCO DE PESSEGO EM CALDA": {
+    "taco_food_id": "TACO_245",
+    "taco_food_name": "Pêssego, enlatado, em calda",
+    "similarity": 0.7246
+  },
+  "SOJA EXTRATO BEBIDA NATURAL": {
+    "taco_food_id": "TACO_582",
+    "taco_food_name": "Soja, extrato solúvel, natural, fluido",
+    "similarity": 0.75
+  },
+  "NHOQUE": {
+    "taco_food_id": "TACO_136",
+    "taco_food_name": "Nhoque, batata, cozido",
+    "similarity": 1.0
+  },
+  "BANANA CARAMELADA": {
+    "taco_food_id": "TACO_178",
+    "taco_food_name": "Banana, maçã, crua",
+    "similarity": 0.5
+  },
+  "MACARRAO GRATINADO": {
+    "taco_food_id": "TACO_40",
+    "taco_food_name": "Macarrão, trigo, cru",
+    "similarity": 0.5
+  },
+  "CUPIM BOVINO": {
+    "taco_food_id": "TACO_354",
+    "taco_food_name": "Carne, bovina, cupim, cru",
+    "similarity": 0.5
+  },
+  "ABIU": {
+    "taco_food_id": "TACO_166",
+    "taco_food_name": "Abiu, cru",
+    "similarity": 1.0
+  },
+  "AMENDOIM ACHOCOLATADO": {
+    "taco_food_id": "TACO_557",
+    "taco_food_name": "Amendoim, grão, cru",
+    "similarity": 0.5
+  },
+  "GUARANA NATURAL GUARACAMP ACAI": {
+    "taco_food_id": "TACO_167",
+    "taco_food_name": "Açaí, polpa, com xarope de guaraná e glucose",
+    "similarity": 0.5
+  },
+  "EMPADA DE CAMARAO": {
+    "taco_food_id": "TACO_390",
+    "taco_food_name": "Empada, de frango, pré-cozida",
+    "similarity": 0.6667
+  },
+  "CHICORIA": {
+    "taco_food_id": "TACO_111",
+    "taco_food_name": "Chicória, crua",
+    "similarity": 1.0
+  },
+  "TRIGO GRAO": {
+    "taco_food_id": "TACO_40",
+    "taco_food_name": "Macarrão, trigo, cru",
+    "similarity": 0.5
+  },
+  "POLPA DE COCO": {
+    "taco_food_id": "TACO_167",
+    "taco_food_name": "Açaí, polpa, com xarope de guaraná e glucose",
+    "similarity": 0.6667
+  },
+  "LIMA": {
+    "taco_food_id": "TACO_213",
+    "taco_food_name": "Laranja, lima, suco",
+    "similarity": 1.0
+  },
+  "SARDINHA FRESCA": {
+    "taco_food_id": "TACO_320",
+    "taco_food_name": "Sardinha, frita",
+    "similarity": 0.5
+  },
+  "AMENDOIM COZIDO": {
+    "taco_food_id": "TACO_557",
+    "taco_food_name": "Amendoim, grão, cru",
+    "similarity": 0.5
+  },
+  "BISCOITO SALGADO PIRAQUE QUEIJINHO": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.5
+  },
+  "OVO BENEDICT": {
+    "taco_food_id": "TACO_489",
+    "taco_food_name": "Ovo, de galinha, inteiro, cru",
+    "similarity": 0.5
+  },
+  "CALDO DE PINTO": {
+    "taco_food_id": "TACO_324",
+    "taco_food_name": "Caldo de carne, tablete",
+    "similarity": 0.6667
+  },
+  "MACARRAO INSTANTANEO LIGHT": {
+    "taco_food_id": "TACO_39",
+    "taco_food_name": "Macarrão, instantâneo",
+    "similarity": 0.6667
+  },
+  "DOCE DE FRUTAS EM BARRA LIGHT": {
+    "taco_food_id": "TACO_176",
+    "taco_food_name": "Banana, doce em barra",
+    "similarity": 0.5
+  },
+  "PASTEL DE NATA": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.6667
+  },
+  "PASTEL DE SANTA CLARA": {
+    "taco_food_id": "TACO_55",
+    "taco_food_name": "Pastel, de carne, cru",
+    "similarity": 0.5
+  },
+  "FARINHA DE COPIOBA": {
+    "taco_food_id": "TACO_123",
+    "taco_food_name": "Farinha, de puba",
+    "similarity": 0.6667
+  },
+  "GUARANA JESUS": {
+    "taco_food_id": "TACO_167",
+    "taco_food_name": "Açaí, polpa, com xarope de guaraná e glucose",
+    "similarity": 0.5
+  },
+  "BISCOITO CREAM CRACKER NESFIT GERGELIM": {
+    "taco_food_id": "TACO_13",
+    "taco_food_name": "Biscoito, salgado, cream cracker",
+    "similarity": 0.6
+  },
+  "SUCO CONCENTRADO PREPARADO UVA SEM ACUCAR": {
+    "taco_food_id": "TACO_258",
+    "taco_food_name": "Uva, suco concentrado, envasado",
+    "similarity": 0.5
+  },
+  "CREME DE ERVILHA": {
+    "taco_food_id": "TACO_28",
+    "taco_food_name": "Creme de milho, pó",
+    "similarity": 0.6667
+  },
+  "ATUM EM CONSERVA DE OLEO DEFUMADO": {
+    "taco_food_id": "TACO_277",
+    "taco_food_name": "Atum, conserva em óleo",
+    "similarity": 0.6667
+  },
+  "BISCOITO RECHEADO TORTINHA MARILAN MORANGO": {
+    "taco_food_id": "TACO_10",
+    "taco_food_name": "Biscoito, doce, recheado com morango",
+    "similarity": 0.6
+  },
+  "OLEO DE GIRASSOL": {
+    "taco_food_id": "TACO_269",
+    "taco_food_name": "Óleo, de girassol",
+    "similarity": 1.0
+  },
+  "ALHO PORO": {
+    "taco_food_id": "TACO_83",
+    "taco_food_name": "Alho-poró, cru",
+    "similarity": 1.0
+  },
+  "SOJA GRAO COZIDO DRENADO SEM OLEO COM SAL": {
+    "taco_food_id": "TACO_61",
+    "taco_food_name": "Pipoca, com óleo de soja, sem sal",
+    "similarity": 0.625
+  },
+  "CREME DE QUEIJO": {
+    "taco_food_id": "TACO_447",
+    "taco_food_name": "Creme de Leite",
+    "similarity": 0.6667
+  },
+  "TORRAO DE AMENDOIM": {
+    "taco_food_id": "TACO_558",
+    "taco_food_name": "Amendoim, torrado, salgado",
+    "similarity": 0.7523
+  },
+  "MINGAU TRADICIONAL EM PO": {
+    "taco_food_id": "TACO_46",
+    "taco_food_name": "Mingau tradicional, pó",
+    "similarity": 0.75
+  },
+  "BATATA RECHEADA": {
+    "taco_food_id": "TACO_89",
+    "taco_food_name": "Batata, doce, crua",
+    "similarity": 0.5
+  },
+  "COENTRO": {
+    "taco_food_id": "TACO_114",
+    "taco_food_name": "Coentro, folhas desidratadas",
+    "similarity": 1.0
+  },
+  "MATE TRADICIONAL": {
+    "taco_food_id": "TACO_46",
+    "taco_food_name": "Mingau tradicional, pó",
+    "similarity": 0.7105
+  }
+}

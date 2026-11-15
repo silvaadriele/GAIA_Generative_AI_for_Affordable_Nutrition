@@ -1,0 +1,92 @@
+====================================================================
+  Perfil 33  |  30.9 meses  |  Sexo: F  |  Região: Sul
+  Peso: 13.9 kg  |  Altura: 89.5 cm  |  Faixa: 24-35m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 30.9 months  |  Sex: Female
+  Weight: 13.9 kg  |  Height: 89.5 cm
+  Region: Sul
+  Age band: 24-35 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):         0.6  → adequate
+  HAZ (height-for-age):       -0.52  → adequate_height
+  WHZ (weight-for-height):     1.15  → overweight_risk
+
+  NUTRITIONAL CLASSIFICATION: Overweight_Risk
+  Active conditions: Overweight_Risk
+  DRI Adjustment: Overweight risk: mild energy reduction
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1147 kcal
+  Protein:     19.0 g
+  Iron:         7.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1470 g/day
+
+  [Breakfast]  target=287 kcal | achieved=205 kcal
+    • Iogurte, sabor morango                     145 g  (101 kcal)
+    • Cereais, mistura para vitamina, trigo, c    20 g  (76 kcal)
+    • Laranja, pêra, suco                         85 g  (28 kcal)
+
+  [Morning Snack]  target=115 kcal | achieved=196 kcal
+    • Laranja. Pera.in natura. Citrus sinensis   200 g  (74 kcal)
+    • AbÃ³bora. moranga. s/ casca. s/ semente.   190 g  (72 kcal)
+    • Iogurte, sabor morango                      55 g  (38 kcal)
+    • Laranja, pêra, suco                         35 g  (11 kcal)
+
+  [Lunch]  target=401 kcal | achieved=382 kcal
+    • Carne, bovina, costela, assada              40 g  (149 kcal)
+    • Banana. nanica.in natura. Musa spp..       100 g  (91 kcal)
+    • Arroz. polido. cozido. c/ Ã³leo. cebola     65 g  (90 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    45 g  (8 kcal)
+
+  [Afternoon Snack]  target=115 kcal | achieved=301 kcal
+    • Leite, de vaca, achocolatado               165 g  (137 kcal)
+    • Leite, de vaca, desnatado, pó               35 g  (127 kcal)
+    • Cereais, mistura para vitamina, trigo, c    10 g  (38 kcal)
+
+  [Dinner]  target=229 kcal | achieved=180 kcal
+    • Banana. nanica.in natura. Musa spp..       100 g  (91 kcal)
+    • Arroz, tipo 1, cozido                       30 g  (38 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    40 g  (7 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1264.5 kcal  (110.2%)
+  Protein:      44.9 g     (236.3%)
+  Iron:         6.93 mg    (99.0%)
+  Zinc:         7.06 mg    (141.2%)
+  Calcium:    1023.1 mg    (102.3%)
+  Vitamin A:   598.0 µg    (149.5%)
+  Vitamin C:   113.7 mg    (454.8%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 17.52
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 24-35 months: Laranja. Pera.in nat (200g em Morning Snack); AbÃ³bora. moranga. s (190g em Morning Snack)
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

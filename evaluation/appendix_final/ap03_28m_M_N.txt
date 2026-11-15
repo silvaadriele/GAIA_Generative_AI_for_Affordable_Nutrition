@@ -1,0 +1,97 @@
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-10-25
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 28.3 months  |  Sex: Male
+  Weight: 16.1 kg  |  Height: 91.5 cm
+  Region: Norte
+  Age band: 24-35 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):        1.83  → adequate
+  HAZ (height-for-age):        0.24  → adequate_height
+  WHZ (weight-for-height):     2.36  → overweight
+
+  NUTRITIONAL CLASSIFICATION: Overweight
+  DRI Adjustment: Overweight: moderate energy reduction
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1141 kcal
+  Protein:     19.0 g
+  Iron:        10.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 820.0 g/day
+
+  [Breakfast]  target=285 kcal | achieved=285 kcal
+    • Pão, de soja                                50 g  (154 kcal)
+    • Pão, trigo, francês                         20 g  (60 kcal)
+    • Leite, de vaca, desnatado, pó               15 g  (54 kcal)
+    • Laranja, pêra, suco                         50 g  (16 kcal)
+
+  [Morning Snack]  target=114 kcal | achieved=9 kcal
+    • Laranja, pêra, suco                         20 g  (6 kcal)
+    • Tomate, salada                              10 g  (2 kcal)
+
+  [Lunch]  target=399 kcal | achieved=425 kcal
+    • Pão, de soja                                70 g  (216 kcal)
+    • Pão, trigo, francês                         30 g  (90 kcal)
+    • Leite, de vaca, desnatado, pó               20 g  (72 kcal)
+    • FeijÃ£o, carioca, cozido (50% grÃ£o e 50    50 g  (40 kcal)
+    • Cenoura, crua                               20 g  (7 kcal)
+
+  [Afternoon Snack]  target=114 kcal | achieved=30 kcal
+    • Pão, trigo, francês                         10 g  (30 kcal)
+
+  [Dinner]  target=228 kcal | achieved=24 kcal
+    • FeijÃ£o, carioca, cozido (50% grÃ£o e 50    30 g  (24 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1255.7 kcal  (110.1%)
+  Protein:      57.2 g     (301.3%)
+  Iron:         9.98 mg    (99.8%)
+  Zinc:         6.84 mg    (136.8%)
+  Calcium:    1010.0 mg    (101.0%)
+  Vitamin A:   399.0 µg    (99.8%)
+  Vitamin C:   161.3 mg    (645.1%)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 5
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================
+
+── CAREGIVER GUIDANCE (AI) ──────────────────────────────────────
+(Gemini indisponível: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.
+Please retry in 12h44m19.331647429s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  description: "Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits."
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 45859
+}
+])

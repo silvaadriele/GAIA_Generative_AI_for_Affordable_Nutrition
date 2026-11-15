@@ -1,0 +1,90 @@
+====================================================================
+  Perfil 17  |  8.6 meses  |  Sexo: M  |  Região: Sul
+  Peso: 8.95 kg  |  Altura: 66.0 cm  |  Faixa: 9-11m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-12
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 8.6 months  |  Sex: Male
+  Weight: 8.95 kg  |  Height: 66.0 cm
+  Region: Sul
+  Age band: 9-11 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):        0.17  → adequate
+  HAZ (height-for-age):       -2.43  → stunting
+  WHZ (weight-for-height):     2.08  → overweight
+
+  NUTRITIONAL CLASSIFICATION: Stunting
+  Active conditions: Overweight | Stunting
+  DRI Adjustment: Stunting (HAZ < -2): +20% energia e proteína para catch-up (Golden 2009)
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:       960 kcal
+  Protein:     13.2 g
+  Iron:        11.0 mg
+  Zinc:         3.0 mg
+  Calcium:      260 mg
+  Vitamin A:    500 µg
+  Vitamin C:     50 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1165 g/day
+
+  [Breakfast]  target=288 kcal | achieved=378 kcal
+    • Cereais, mistura para vitamina, trigo, c    55 g  (210 kcal)
+    • Iogurte, sabor morango                     200 g  (139 kcal)
+    • Açaí, polpa, congelada                      50 g  (29 kcal)
+
+  [Lunch]  target=384 kcal | achieved=442 kcal
+    • Arroz. polido. cozido. c/ Ã³leo. cebola    150 g  (207 kcal)
+    • Banana. nanica.in natura. Musa spp..       100 g  (91 kcal)
+    • Carne, bovina, fígado, grelhado             40 g  (90 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis    65 g  (24 kcal)
+    • Batata, inglesa, cozida                     40 g  (21 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+
+  [Dinner]  target=288 kcal | achieved=242 kcal
+    • Banana. nanica.in natura. Musa spp..       100 g  (91 kcal)
+    • Morango.in natura.Fragaria vesca L..       200 g  (60 kcal)
+    • Arroz, integral, cozido                     30 g  (37 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis    65 g  (24 kcal)
+    • Batata, inglesa, cozida                     40 g  (21 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1062.6 kcal  (110.7%)
+  Protein:      31.1 g     (235.2%)
+  Iron:        11.15 mg    (101.4%)
+  Zinc:         5.03 mg    (167.7%)
+  Calcium:     603.8 mg    (232.2%)
+  Vitamin A:  5839.2 µg    (1167.8%)
+  Vitamin C:   149.8 mg    (299.6%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 24.81
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 9-11 months: Iogurte, sabor moran (200g em Breakfast); Arroz. polido. cozid (150g em Lunch); Morango.in natura.Fr (200g em Dinner)
+
+── BREASTFEEDING ─────────────────────────────────────────────────
+  This child is under 2 years old. According to WHO guidelines,
+  breastfeeding should be maintained as a COMPLEMENT to solid
+  foods up to 2 years of age or beyond. The plan above covers
+  complementary foods only, however, breast milk remains an essential
+  part of the diet at this age.
+  Ref: WHO (2023). https://www.who.int/publications/i/item/9789240082830
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

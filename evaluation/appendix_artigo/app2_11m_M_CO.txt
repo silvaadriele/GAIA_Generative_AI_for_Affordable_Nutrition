@@ -1,0 +1,92 @@
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 11.2 months  |  Sex: Male
+  Weight: 9.99 kg  |  Height: 78.0 cm
+  Region: Centro-Oeste
+  Age band: 9-11 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):         0.5  → adequate
+  HAZ (height-for-age):        1.38  → adequate_height
+  WHZ (weight-for-height):    -0.11  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:       800 kcal
+  Protein:     11.0 g
+  Iron:        11.0 mg
+  Zinc:         3.0 mg
+  Calcium:      260 mg
+  Vitamin A:    500 µg
+  Vitamin C:     50 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 980 g/day
+
+  [Breakfast]  target=200 kcal | achieved=265 kcal
+    • Cereais, mistura para vitamina, trigo, c    30 g  (114 kcal)
+    • Iogurte, natural (mÃ©dia de diferentes a   200 g  (114 kcal)
+    • Melancia, polpa,in natura, Citrullus spp    95 g  (28 kcal)
+    • Morango,in natura,Fragaria vesca L.,        30 g  (9 kcal)
+
+  [Lunch]  target=280 kcal | achieved=269 kcal
+    • Polenta, pré-cozida                        200 g  (206 kcal)
+    • Frango, caipira, inteiro, com pele, cozi    15 g  (36 kcal)
+    • FeijÃ£o, carioca, cozido (50% grÃ£o e 50    15 g  (12 kcal)
+    • Abobrinha, italiana, c/ casca, cozida, d    25 g  (9 kcal)
+    • Cenoura, s/ casca, cozida, drenada, s/ Ã    40 g  (7 kcal)
+
+  [Afternoon Snack]  target=120 kcal | achieved=79 kcal
+    • Cereais, mistura para vitamina, trigo, c    15 g  (57 kcal)
+    • Melancia, polpa,in natura, Citrullus spp    60 g  (17 kcal)
+    • Morango,in natura,Fragaria vesca L.,        15 g  (4 kcal)
+
+  [Dinner]  target=200 kcal | achieved=231 kcal
+    • MacarrÃ£o, trigo, integral, c/ molho bra   115 g  (156 kcal)
+    • Frango, fígado, cozido                      25 g  (42 kcal)
+    • Abobrinha, italiana, c/ casca, cozida, d    35 g  (12 kcal)
+    • FeijÃ£o, carioca, cozido (50% grÃ£o e 50    15 g  (12 kcal)
+    • Cenoura, s/ casca, cozida, drenada, s/ Ã    50 g  (8 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:      844.0 kcal  (105.5%)
+  Protein:      42.6 g     (386.9%)
+  Iron:        10.91 mg    (99.2%)
+  Zinc:         4.85 mg    (161.7%)
+  Calcium:     634.4 mg    (244.0%)
+  Vitamin A:  1149.1 µg    (229.8%)
+  Vitamin C:    50.9 mg    (101.9%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 15.39
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 9-11 months: Iogurte, natural (mÃ (200g em Breakfast); Polenta, pré-cozida (200g em Lunch)
+
+── BREASTFEEDING ─────────────────────────────────────────────────
+  This child is under 2 years old. According to WHO guidelines,
+  breastfeeding should be maintained as a COMPLEMENT to solid
+  foods up to 2 years of age or beyond. The plan above covers
+  complementary foods only, however, breast milk remains an essential
+  part of the diet at this age.
+  Ref: WHO (2023). https://www.who.int/publications/i/item/9789240082830
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================
+
+── CAREGIVER GUIDANCE (AI) ──────────────────────────────────────
+Great news! At 11 months old, your baby is growing wonderfully and maintaining a perfectly healthy weight and physical development. To support this wonderful progress, our proposed meal plan offers about 845 calories spread across 4 meals a day, which aligns beautifully with their daily target of around 800 calories to keep them energized and thriving. As your baby approaches their first birthday, here are two practical tips to help with mealtimes: First, encourage self-feeding by offering a colorful variety of soft finger foods and chopped textures, which helps develop their fine motor skills and independence. Second, trust your baby’s appetite by following their hunger and fullness cues—let them decide how much to eat without pressing them to finish every portion. You are doing a fantastic job nourishing your little one, and keeping mealtimes relaxed and positive will ensure they continue to build a healthy relationship with food!

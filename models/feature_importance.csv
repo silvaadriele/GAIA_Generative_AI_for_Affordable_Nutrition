@@ -1,0 +1,10 @@
+feature,importance
+region_enc,5744
+energy_kcal,4920
+protein_g,4428
+fat_g,3017
+carbs_g,2665
+age_group_enc,2499
+NAS,1906
+food_category_enc,1815
+source_enc,201

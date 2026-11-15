@@ -1,0 +1,94 @@
+====================================================================
+  Perfil 44  |  37.7 meses  |  Sexo: M  |  Região: Centro-Oeste
+  Peso: 13.1 kg  |  Altura: 91.8 cm  |  Faixa: 36-59m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 37.7 months  |  Sex: Male
+  Weight: 13.1 kg  |  Height: 91.8 cm
+  Region: Centro-Oeste
+  Age band: 36-59 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):       -0.91  → adequate
+  HAZ (height-for-age):       -1.44  → adequate_height
+  WHZ (weight-for-height):     -0.2  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1342 kcal
+  Protein:     19.0 g
+  Iron:        10.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1805.0 g/day
+
+  [Breakfast]  target=336 kcal | achieved=288 kcal
+    • Cereais, mistura para vitamina, trigo, c    45 g  (172 kcal)
+    • Iogurte, sabor morango                     100 g  (70 kcal)
+    • Laranja, pêra, suco                        145 g  (47 kcal)
+
+  [Morning Snack]  target=134 kcal | achieved=293 kcal
+    • Manteiga, sem sal                           25 g  (189 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis   155 g  (57 kcal)
+    • Iogurte, sabor morango                      40 g  (28 kcal)
+    • Laranja, pêra, suco                         55 g  (18 kcal)
+
+  [Lunch]  target=470 kcal | achieved=453 kcal
+    • Arroz. polido. cozido. c/ Ã³leo. cebola    200 g  (276 kcal)
+    • Banana. nanica.in natura. Musa spp..       105 g  (96 kcal)
+    • Cará, cozido                                45 g  (35 kcal)
+    • Carne, bovina, fraldinha, com gordura, c     5 g  (17 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    95 g  (16 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+
+  [Afternoon Snack]  target=134 kcal | achieved=151 kcal
+    • Melancia. polpa.in natura. Citrullus spp   200 g  (58 kcal)
+    • Cereais, mistura para vitamina, trigo, c    15 g  (57 kcal)
+    • Leite, de vaca, desnatado, pó               10 g  (36 kcal)
+    • Leite, de vaca, desnatado, UHT             250 g  (0 kcal)
+
+  [Dinner]  target=268 kcal | achieved=329 kcal
+    • Carne, bovina, costela, assada              40 g  (149 kcal)
+    • Banana. nanica.in natura. Musa spp..        95 g  (86 kcal)
+    • Arroz, tipo 1, cozido                       30 g  (38 kcal)
+    • Cará, cozido                                35 g  (27 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    85 g  (14 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1514.1 kcal  (112.8%)
+  Protein:      36.1 g     (190.2%)
+  Iron:        10.18 mg    (101.8%)
+  Zinc:         7.42 mg    (148.4%)
+  Calcium:    1034.0 mg    (103.4%)
+  Vitamin A:   594.4 µg    (148.6%)
+  Vitamin C:   158.3 mg    (633.1%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 20.74
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 8
+  Warnings:
+    ! Large portions for 36-59 months: Leite, de vaca, desn (250g em Afternoon Snack)
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

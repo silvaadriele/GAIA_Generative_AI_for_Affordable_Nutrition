@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+lightgbm
+scikit-learn
+google-generativeai
+python-dotenv
+joblib
+openpyxl

@@ -1,0 +1,36 @@
+====================================================================
+  Perfil 02  |  3.0 meses  |  Sexo: F  |  Região: Sul
+  Peso: 7.58 kg  |  Altura: 61.3 cm  |  Faixa: 0-5m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC NUTRITIONAL RECOMMENDATION
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age:    3.0 months  |  Sex: Female
+  Weight: 7.58 kg  |  Height: 61.3 cm
+  Region: Sul
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):      2.07  → high_weight
+  HAZ (height-for-age):      0.71  → adequate_height
+  WHZ (weight-for-height):   2.12  → overweight
+  NUTRITIONAL CLASSIFICATION: Overweight
+
+── RECOMMENDATION ───────────────────────────────────────────────
+  This child is under 6 months of age.
+
+  According to World Health Organization guidelines (WHO, 2023),
+  children aged 0 to 6 months should receive EXCLUSIVE
+  BREASTFEEDING. No solid, semi-solid, or liquid food —
+  except medicines and supplements when clinically indicated —
+  should be introduced before 6 months of age.
+
+  Reference:
+  WHO (2023). Infant and young child feeding.
+  https://www.who.int/publications/i/item/9789240082830
+
+  GAIA generates meal plans only for children >= 6 months.
+====================================================================

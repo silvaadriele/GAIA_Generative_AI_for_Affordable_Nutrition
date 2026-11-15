@@ -1,0 +1,89 @@
+====================================================================
+  Perfil 11  |  6.9 meses  |  Sexo: M  |  Região: Nordeste
+  Peso: 10.36 kg  |  Altura: 70.0 cm  |  Faixa: 6-8m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 6.9 months  |  Sex: Male
+  Weight: 10.36 kg  |  Height: 70.0 cm
+  Region: Nordeste
+  Age band: 6-8 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):         2.1  → high_weight
+  HAZ (height-for-age):        0.46  → adequate_height
+  WHZ (weight-for-height):     2.43  → overweight
+
+  NUTRITIONAL CLASSIFICATION: Overweight
+  Active conditions: Overweight
+  DRI Adjustment: Overweight: moderate energy reduction
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:       632 kcal
+  Protein:     11.0 g
+  Iron:        11.0 mg
+  Zinc:         3.0 mg
+  Calcium:      260 mg
+  Vitamin A:    500 µg
+  Vitamin C:     50 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 745 g/day
+
+  [Breakfast]  target=190 kcal | achieved=376 kcal
+    • Cereais, mistura para vitamina, trigo, c    60 g  (229 kcal)
+    • Iogurte, sabor morango                     170 g  (118 kcal)
+    • Açaí, polpa, congelada                      50 g  (29 kcal)
+
+  [Lunch]  target=253 kcal | achieved=198 kcal
+    • Carne, bovina, fígado, grelhado             40 g  (90 kcal)
+    • Arroz. polido. cozido. c/ Ã³leo. cebola     30 g  (41 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis    85 g  (31 kcal)
+    • Batata, inglesa, cozida                     35 g  (18 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+    • Morango.in natura.Fragaria vesca L..        25 g  (8 kcal)
+
+  [Dinner]  target=190 kcal | achieved=122 kcal
+    • Laranja. Pera.in natura. Citrus sinensis   115 g  (42 kcal)
+    • Arroz, integral, cozido                     30 g  (37 kcal)
+    • Batata, inglesa, cozida                     45 g  (23 kcal)
+    • Soja, queijo (tofu)                         15 g  (10 kcal)
+    • Morango.in natura.Fragaria vesca L..        30 g  (9 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:      695.5 kcal  (110.1%)
+  Protein:      27.3 g     (248.3%)
+  Iron:        11.04 mg    (100.4%)
+  Zinc:         4.79 mg    (159.7%)
+  Calcium:     579.5 mg    (222.9%)
+  Vitamin A:  5832.2 µg    (1166.4%)
+  Vitamin C:    49.3 mg    (98.5%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 16.78
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 6-8 months: Iogurte, sabor moran (170g em Breakfast); Laranja. Pera.in nat (115g em Dinner)
+
+── BREASTFEEDING ─────────────────────────────────────────────────
+  This child is under 2 years old. According to WHO guidelines,
+  breastfeeding should be maintained as a COMPLEMENT to solid
+  foods up to 2 years of age or beyond. The plan above covers
+  complementary foods only, however, breast milk remains an essential
+  part of the diet at this age.
+  Ref: WHO (2023). https://www.who.int/publications/i/item/9789240082830
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

@@ -1,0 +1,122 @@
+{
+  "6_8m": {
+    "M": {
+      "energy_kcal": 743,
+      "protein_g": 11.0,
+      "iron_mg": 11.0,
+      "zinc_mg": 3.0,
+      "calcium_mg": 260,
+      "vitA_ug": 500,
+      "vitC_mg": 50,
+      "folate_ug": 80,
+      "sodium_mrv_mg": 370
+    },
+    "F": {
+      "energy_kcal": 676,
+      "protein_g": 11.0,
+      "iron_mg": 11.0,
+      "zinc_mg": 3.0,
+      "calcium_mg": 260,
+      "vitA_ug": 500,
+      "vitC_mg": 50,
+      "folate_ug": 80,
+      "sodium_mrv_mg": 370
+    }
+  },
+  "9_11m": {
+    "M": {
+      "energy_kcal": 800,
+      "protein_g": 11.0,
+      "iron_mg": 11.0,
+      "zinc_mg": 3.0,
+      "calcium_mg": 260,
+      "vitA_ug": 500,
+      "vitC_mg": 50,
+      "folate_ug": 80,
+      "sodium_mrv_mg": 370
+    },
+    "F": {
+      "energy_kcal": 717,
+      "protein_g": 11.0,
+      "iron_mg": 11.0,
+      "zinc_mg": 3.0,
+      "calcium_mg": 260,
+      "vitA_ug": 500,
+      "vitC_mg": 50,
+      "folate_ug": 80,
+      "sodium_mrv_mg": 370
+    }
+  },
+  "12_23m": {
+    "M": {
+      "energy_kcal": 1046,
+      "protein_g": 13.0,
+      "iron_mg": 7.0,
+      "zinc_mg": 3.0,
+      "calcium_mg": 700,
+      "vitA_ug": 300,
+      "vitC_mg": 15,
+      "folate_ug": 150,
+      "sodium_mrv_mg": 1000
+    },
+    "F": {
+      "energy_kcal": 992,
+      "protein_g": 13.0,
+      "iron_mg": 7.0,
+      "zinc_mg": 3.0,
+      "calcium_mg": 700,
+      "vitA_ug": 300,
+      "vitC_mg": 15,
+      "folate_ug": 150,
+      "sodium_mrv_mg": 1000
+    }
+  },
+  "24_35m": {
+    "M": {
+      "energy_kcal": 1342,
+      "protein_g": 19.0,
+      "iron_mg": 7.0,
+      "zinc_mg": 5.0,
+      "calcium_mg": 1000,
+      "vitA_ug": 400,
+      "vitC_mg": 25,
+      "folate_ug": 200,
+      "sodium_mrv_mg": 1200
+    },
+    "F": {
+      "energy_kcal": 1274,
+      "protein_g": 19.0,
+      "iron_mg": 7.0,
+      "zinc_mg": 5.0,
+      "calcium_mg": 1000,
+      "vitA_ug": 400,
+      "vitC_mg": 25,
+      "folate_ug": 200,
+      "sodium_mrv_mg": 1200
+    }
+  },
+  "36_59m": {
+    "M": {
+      "energy_kcal": 1342,
+      "protein_g": 19.0,
+      "iron_mg": 10.0,
+      "zinc_mg": 5.0,
+      "calcium_mg": 1000,
+      "vitA_ug": 400,
+      "vitC_mg": 25,
+      "folate_ug": 200,
+      "sodium_mrv_mg": 1500
+    },
+    "F": {
+      "energy_kcal": 1274,
+      "protein_g": 19.0,
+      "iron_mg": 10.0,
+      "zinc_mg": 5.0,
+      "calcium_mg": 1000,
+      "vitA_ug": 400,
+      "vitC_mg": 25,
+      "folate_ug": 200,
+      "sodium_mrv_mg": 1500
+    }
+  }
+}

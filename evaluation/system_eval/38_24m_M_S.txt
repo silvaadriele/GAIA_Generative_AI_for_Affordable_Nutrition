@@ -1,0 +1,100 @@
+====================================================================
+  Perfil 38  |  23.8 meses  |  Sexo: M  |  Região: Sul
+  Peso: 11.4 kg  |  Altura: 89.9 cm  |  Faixa: 24-35m
+====================================================================
+
+====================================================================
+  GAIA — PEDIATRIC MEAL PLAN
+  Date: 2026-11-08
+====================================================================
+
+── CHILD PROFILE ────────────────────────────────────────────────
+  Age: 23.8 months  |  Sex: Male
+  Weight: 11.4 kg  |  Height: 89.9 cm
+  Region: Sul
+  Age band: 24-35 months
+
+── ANTHROPOMETRIC ASSESSMENT (WHO z-scores) ────────────────────
+  WAZ (weight-for-age):       -0.53  → adequate
+  HAZ (height-for-age):        0.81  → adequate_height
+  WHZ (weight-for-height):    -1.37  → normal_weight
+
+  NUTRITIONAL CLASSIFICATION: Normal
+  Active conditions: Normal
+  DRI Adjustment: Adequate nutritional status
+
+── DAILY NUTRITIONAL TARGETS (ADJUSTED DRI) ─────────────────────
+  Energy:      1342 kcal
+  Protein:     19.0 g
+  Iron:         7.0 mg
+  Zinc:         5.0 mg
+  Calcium:     1000 mg
+  Vitamin A:    400 µg
+  Vitamin C:     25 mg
+
+── MEAL PLAN ─────────────────────────────────────────────────────
+  LP Status: optimal  |  Total: 1480 g/day
+
+  [Breakfast]  target=336 kcal | achieved=205 kcal
+    • Iogurte, sabor morango                     145 g  (101 kcal)
+    • Cereais, mistura para vitamina, trigo, c    20 g  (76 kcal)
+    • Laranja, pêra, suco                         85 g  (28 kcal)
+
+  [Morning Snack]  target=134 kcal | achieved=342 kcal
+    • Leite, de vaca, integral, pó                50 g  (248 kcal)
+    • Laranja. Pera.in natura. Citrus sinensis   120 g  (44 kcal)
+    • Iogurte, sabor morango                      55 g  (38 kcal)
+    • Laranja, pêra, suco                         35 g  (11 kcal)
+
+  [Lunch]  target=470 kcal | achieved=498 kcal
+    • Arroz. polido. cozido. c/ Ã³leo. cebola    150 g  (207 kcal)
+    • Carne, bovina, costela, assada              40 g  (149 kcal)
+    • Banana. nanica.in natura. Musa spp..       100 g  (91 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    40 g  (7 kcal)
+
+  [Afternoon Snack]  target=134 kcal | achieved=238 kcal
+    • Leite, de vaca, achocolatado               150 g  (124 kcal)
+    • AbÃ³bora. moranga. s/ casca. s/ semente.   200 g  (76 kcal)
+    • Cereais, mistura para vitamina, trigo, c    10 g  (38 kcal)
+
+  [Dinner]  target=268 kcal | achieved=180 kcal
+    • Banana. nanica.in natura. Musa spp..       100 g  (91 kcal)
+    • Arroz, tipo 1, cozido                       30 g  (38 kcal)
+    • Cará, cozido                                40 g  (31 kcal)
+    • Ervilha, em vagem                           15 g  (13 kcal)
+    • Cenoura. s/ casca. cozida. drenada. s/ Ã    40 g  (7 kcal)
+
+── NUTRITIONAL COVERAGE ─────────────────────────────────────────
+  Energy:     1464.5 kcal  (109.1%)
+  Protein:      46.4 g     (244.3%)
+  Iron:         6.89 mg    (98.4%)
+  Zinc:         6.94 mg    (138.8%)
+  Calcium:     980.5 mg    (98.1%)
+  Vitamin A:   598.6 µg    (149.7%)
+  Vitamin C:   113.9 mg    (455.4%)
+
+── ESTIMATED DAILY COST (Carrefour BR, 2026-11-08) ─────────────
+  Daily cost: R$ 17.91
+  (Reference: Carrefour Online; raw ingredients converted to cooked
+   portions via yield factors. Prices valid for Nov 2026.)
+
+── VALIDATION ───────────────────────────────────────────────────
+  Result: APPROVED  (9/9 criteria OK)
+  Food categories per day: 7
+  Warnings:
+    ! Large portions for 24-35 months: AbÃ³bora. moranga. s (200g em Afternoon Snack)
+
+── BREASTFEEDING ─────────────────────────────────────────────────
+  This child is under 2 years old. According to WHO guidelines,
+  breastfeeding should be maintained as a COMPLEMENT to solid
+  foods up to 2 years of age or beyond. The plan above covers
+  complementary foods only, however, breast milk remains an essential
+  part of the diet at this age.
+  Ref: WHO (2023). https://www.who.int/publications/i/item/9789240082830
+
+────────────────────────────────────────────────────────────────────
+  GAIA — Multi-Agent System for Pediatric Nutritional Meal Planning
+  TCC — UNISINOS 2026
+====================================================================

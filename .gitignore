@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/raw/
+models/*.pkl
+models/*.json
+evaluation/results/
+tmp_who/
+tmp/
+.playwright-mcp/
