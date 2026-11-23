@@ -98,6 +98,7 @@ python main.py perfil.json
 ```
 
 Or edit and run the already created file perfil_teste.json.
+
 The report is printed to the terminal and saved automatically to `evaluation/results/`.
 
 ### Option 2 — Command-line flags
